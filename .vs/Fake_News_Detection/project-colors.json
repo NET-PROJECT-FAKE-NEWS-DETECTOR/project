@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "04c8a95c-10a6-4be5-bbf4-d97076994c9f": {
+      "ProjectGuid": "04c8a95c-10a6-4be5-bbf4-d97076994c9f",
+      "DisplayName": "WebAPI",
+      "ColorIndex": 0
+    },
+    "a2a2197c-7a8e-4262-937d-2ce16e92c7ac": {
+      "ProjectGuid": "a2a2197c-7a8e-4262-937d-2ce16e92c7ac",
+      "DisplayName": "Infrastructure.Test",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
