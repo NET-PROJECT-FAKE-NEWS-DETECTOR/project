@@ -9,7 +9,6 @@ using Microsoft.Extensions.Hosting;
 using Microsoft.OpenApi.Models;
 using Persistence.Context;
 using Persistence.v1;
-using Persistence.v1.Persistence.v1;
 using System;
 using System.Linq;
 using System.Reflection;
@@ -25,7 +24,6 @@ namespace WebAPI
 
         public IConfiguration Configuration { get; }
 
-        // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
 
@@ -47,14 +45,9 @@ namespace WebAPI
             var assembly = AppDomain.CurrentDomain.Load("Application");
             services.AddMediatR(assembly);
             services.AddMediatR(typeof(Startup).GetTypeInfo().Assembly);
-            //services.AddScoped<IApplicationContext, DataSetContext>();
-            // register implementations related to repository/generic implementation
-            // services.AddTransient(typeof(IRepository<>), typeof(Repository<>));
-            //services.AddTransient<IDataSetRepository, DataSetRepository>();
-            // services.AddTransient<IAdminAuthRepository, AdminAuthRepository>();
+           
         }
 
-        // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
             if (env.IsDevelopment())

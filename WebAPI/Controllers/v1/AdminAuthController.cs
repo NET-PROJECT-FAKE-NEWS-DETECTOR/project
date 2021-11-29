@@ -1,8 +1,6 @@
-﻿using Application.Features.Commands;
-using Application.Features.Queries;
+﻿using Application.Features.Queries;
 using MediatR;
 using Microsoft.AspNetCore.Mvc;
-using System;
 using System.Threading.Tasks;
 
 namespace WebAPI.Controllers.v1

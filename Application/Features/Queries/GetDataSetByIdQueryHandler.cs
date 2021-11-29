@@ -2,9 +2,6 @@
 using Domain.Entities;
 using MediatR;
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 
@@ -23,7 +20,7 @@ namespace Application.Features.Queries
             var dataSet = await repository.GetByIdAsync(request.Id);
             if (dataSet == null)
             {
-                throw new Exception("Data doesn't exist");
+                throw new ArgumentNullException("Data doesn't exist!");
             }
 
             return dataSet;

@@ -19,7 +19,7 @@ namespace Application.Features.Commands
             var dataSet = repository.GetByIdAsync(request.Id).Result;
             if (dataSet == null || dataSet.Id == Guid.Empty)
             {
-                throw new Exception("Data doesn't exist!");
+                throw new ArgumentNullException("Data doesn't exist!");
             }
 
             await repository.DeleteAsync(dataSet);

@@ -6,11 +6,11 @@ namespace WebAPI.Controllers.v1
     [Route("[controller]")]
     public class HarvestingController : ControllerBase
     {
-        [HttpGet]
-        public string HarvestEssential()
-        {
-            return "Reached Harvest Endpoint";
-        }
+        //[HttpGet]
+        //public string HarvestEssential()
+        //{
+        //    return "Reached Harvest Endpoint";
+        //}
 
     }
 }

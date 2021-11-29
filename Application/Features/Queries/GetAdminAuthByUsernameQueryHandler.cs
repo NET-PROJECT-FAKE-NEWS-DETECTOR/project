@@ -2,9 +2,7 @@
 using Domain.Entities;
 using MediatR;
 using System;
-using System.Collections.Generic;
 using System.Linq;
-using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 
@@ -23,7 +21,7 @@ namespace Application.Features.Queries
             var admins = await repository.GetAllAsync();
             if (admins == null)
             {
-                throw new Exception("Admin doesn't exist");
+                throw new ArgumentNullException("Admin doesn't exist!");
             }
 
 

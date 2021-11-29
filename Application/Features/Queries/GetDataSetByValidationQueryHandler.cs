@@ -4,7 +4,6 @@ using MediatR;
 using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 
@@ -24,7 +23,7 @@ namespace Application.Features.Queries
             var dataSet = await repository.GetAllAsync();
             if (dataSet == null)
             {
-                throw new Exception("DataSet doesn't exist");
+                throw new ArgumentNullException("Data doesn't exist!");
             }
 
             dataSet = dataSet.Where(d => d.Validation == request.Validation);

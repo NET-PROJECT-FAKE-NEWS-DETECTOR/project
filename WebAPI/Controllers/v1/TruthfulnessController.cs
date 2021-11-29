@@ -7,11 +7,11 @@ namespace WebAPI.Controllers.v1
     [Route("[controller]")]
     public class TruthfulnessController : ControllerBase
     {
-        [HttpGet]
-        public string GetResult()
-        {
-            return "Send the result";
-        }
+        //[HttpGet]
+        //public string GetResult()
+        //{
+        //    return "Send the result";
+        //}
 
     }
 }

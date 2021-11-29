@@ -1,9 +1,6 @@
 ﻿using Application.Interfaces;
 using MediatR;
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 
@@ -22,7 +19,7 @@ namespace Application.Features.Commands
             var dataSet = repository.GetByIdAsync(request.Id).Result;
             if (dataSet == null || dataSet.Id == Guid.Empty)
             {
-                throw new Exception("Data doesn't exist!");
+                throw new ArgumentNullException("Data doesn't exist!");
             }
 
             dataSet.Title = request.Title;
