@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\.NET\\Fake_News_Detection\\Application\\Application.csproj": {}
+    "D:\\repos\\project\\Application\\Application.csproj": {}
   },
   "projects": {
-    "D:\\.NET\\Fake_News_Detection\\Application\\Application.csproj": {
+    "D:\\repos\\project\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\.NET\\Fake_News_Detection\\Application\\Application.csproj",
+        "projectUniqueName": "D:\\repos\\project\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "D:\\.NET\\Fake_News_Detection\\Application\\Application.csproj",
-        "packagesPath": "C:\\Users\\claud\\.nuget\\packages\\",
-        "outputPath": "D:\\.NET\\Fake_News_Detection\\Application\\obj\\",
+        "projectPath": "D:\\repos\\project\\Application\\Application.csproj",
+        "packagesPath": "C:\\Users\\gabii\\.nuget\\packages\\",
+        "outputPath": "D:\\repos\\project\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\claud\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\gabii\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +28,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\.NET\\Fake_News_Detection\\Domain\\Domain.csproj": {
-                "projectPath": "D:\\.NET\\Fake_News_Detection\\Domain\\Domain.csproj"
+              "D:\\repos\\project\\Domain\\Domain.csproj": {
+                "projectPath": "D:\\repos\\project\\Domain\\Domain.csproj"
               }
             }
           }
@@ -86,17 +86,17 @@
         }
       }
     },
-    "D:\\.NET\\Fake_News_Detection\\Domain\\Domain.csproj": {
+    "D:\\repos\\project\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\.NET\\Fake_News_Detection\\Domain\\Domain.csproj",
+        "projectUniqueName": "D:\\repos\\project\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "D:\\.NET\\Fake_News_Detection\\Domain\\Domain.csproj",
-        "packagesPath": "C:\\Users\\claud\\.nuget\\packages\\",
-        "outputPath": "D:\\.NET\\Fake_News_Detection\\Domain\\obj\\",
+        "projectPath": "D:\\repos\\project\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\gabii\\.nuget\\packages\\",
+        "outputPath": "D:\\repos\\project\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\claud\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\gabii\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

@@ -1750,19 +1750,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\claud\\.nuget\\packages\\": {}
+    "C:\\Users\\gabii\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\.NET\\Fake_News_Detection\\Persistence\\Persistence.csproj",
+      "projectUniqueName": "D:\\repos\\project\\Persistence\\Persistence.csproj",
       "projectName": "Persistence",
-      "projectPath": "D:\\.NET\\Fake_News_Detection\\Persistence\\Persistence.csproj",
-      "packagesPath": "C:\\Users\\claud\\.nuget\\packages\\",
-      "outputPath": "D:\\.NET\\Fake_News_Detection\\Persistence\\obj\\",
+      "projectPath": "D:\\repos\\project\\Persistence\\Persistence.csproj",
+      "packagesPath": "C:\\Users\\gabii\\.nuget\\packages\\",
+      "outputPath": "D:\\repos\\project\\Persistence\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\claud\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\gabii\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1776,8 +1776,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\.NET\\Fake_News_Detection\\Application\\Application.csproj": {
-              "projectPath": "D:\\.NET\\Fake_News_Detection\\Application\\Application.csproj"
+            "D:\\repos\\project\\Application\\Application.csproj": {
+              "projectPath": "D:\\repos\\project\\Application\\Application.csproj"
             }
           }
         }
