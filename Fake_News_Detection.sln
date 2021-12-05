@@ -19,7 +19,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "99 Tests", "99 Tests", "{B0
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Infrastructure.Test", "Infrastructure.Test\Infrastructure.Test.csproj", "{A2A2197C-7A8E-4262-937D-2CE16E92C7AC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPI", "FrontEnd\WebAPI.csproj", "{3AF0506D-3E7A-4851-A037-C1491132B5E2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPI", "WebAPI\WebAPI.csproj", "{3AF0506D-3E7A-4851-A037-C1491132B5E2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

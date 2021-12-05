@@ -27,6 +27,8 @@ namespace WebAPI
         public void ConfigureServices(IServiceCollection services)
         {
 
+            services.AddRazorPages();
+
             services.AddControllers();
             services.AddApiVersioning();
             services.AddSwaggerGen(c =>
@@ -45,7 +47,7 @@ namespace WebAPI
             var assembly = AppDomain.CurrentDomain.Load("Application");
             services.AddMediatR(assembly);
             services.AddMediatR(typeof(Startup).GetTypeInfo().Assembly);
-           
+
         }
 
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
@@ -55,6 +57,12 @@ namespace WebAPI
                 app.UseDeveloperExceptionPage();
                 app.UseSwagger();
                 app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "WebAPI v1"));
+            }
+            else
+            {
+                app.UseExceptionHandler("/Error");
+                // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
+                app.UseHsts();
             }
 
             app.UseHttpsRedirection();
@@ -66,6 +74,7 @@ namespace WebAPI
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapControllers();
+                endpoints.MapRazorPages();
             });
         }
     }
