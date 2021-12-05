@@ -3,7 +3,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 
 namespace Persistence.Migrations
 {
-    public partial class InitialCreate : Migration
+    public partial class MyFirstMigration : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {
@@ -12,8 +12,8 @@ namespace Persistence.Migrations
                 columns: table => new
                 {
                     Id = table.Column<byte[]>(type: "varbinary(16)", nullable: false),
-                    Username = table.Column<string>(type: "text", nullable: true),
-                    Password = table.Column<string>(type: "text", nullable: true)
+                    Username = table.Column<string>(type: "text", nullable: false),
+                    Password = table.Column<string>(type: "text", nullable: false)
                 },
                 constraints: table =>
                 {
@@ -29,7 +29,7 @@ namespace Persistence.Migrations
                     Text = table.Column<string>(type: "text", nullable: true),
                     Subject = table.Column<string>(type: "text", nullable: true),
                     Date = table.Column<DateTime>(type: "datetime", nullable: false),
-                    Validation = table.Column<bool>(type: "bool", nullable: false)
+                    Validation = table.Column<bool>(type: "tinyint(1)", nullable: false)
                 },
                 constraints: table =>
                 {

@@ -1,6 +1,7 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Net.Http;
 using System.Threading.Tasks;
 using Domain.Entities;
 using Microsoft.AspNetCore.Mvc;
@@ -25,6 +26,7 @@ namespace WebAPI.Pages.Admin
                 return Page();
             }
 
+            
             return RedirectToPage("/Admin/Admin", new { UserName = Credential.Username, Password = Credential.Password });
         }
     }

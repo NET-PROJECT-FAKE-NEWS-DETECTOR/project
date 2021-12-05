@@ -23,7 +23,7 @@ namespace Persistence.Context
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseMySQL("server=localhost;database=dotnetproject;user=root;password=juventus10");
+            optionsBuilder.UseMySQL("server=localhost;database=dotnetproject;user=root;password=acasa213");
         }
 
        

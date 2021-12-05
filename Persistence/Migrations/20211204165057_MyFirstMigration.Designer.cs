@@ -3,20 +3,21 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Migrations;
+using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using Persistence.Context;
 
 namespace Persistence.Migrations
 {
     [DbContext(typeof(DataSetContext))]
-    [Migration("20211122135358_InitialCreate")]
-    partial class InitialCreate
+    [Migration("20211204165057_MyFirstMigration")]
+    partial class MyFirstMigration
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
                 .HasAnnotation("Relational:MaxIdentifierLength", 64)
-                .HasAnnotation("ProductVersion", "5.0.9");
+                .HasAnnotation("ProductVersion", "5.0.12");
 
             modelBuilder.Entity("Domain.Entities.AdminAuth", b =>
                 {
@@ -25,9 +26,11 @@ namespace Persistence.Migrations
                         .HasColumnType("varbinary(16)");
 
                     b.Property<string>("Password")
+                        .IsRequired()
                         .HasColumnType("text");
 
                     b.Property<string>("Username")
+                        .IsRequired()
                         .HasColumnType("text");
 
                     b.HasKey("Id");
@@ -41,9 +44,6 @@ namespace Persistence.Migrations
                         .ValueGeneratedOnAdd()
                         .HasColumnType("varbinary(16)");
 
-                    b.Property<bool>("Validation")
-                       .HasColumnType("bool");
-
                     b.Property<DateTime>("Date")
                         .HasColumnType("datetime");
 
@@ -55,6 +55,9 @@ namespace Persistence.Migrations
 
                     b.Property<string>("Title")
                         .HasColumnType("text");
+
+                    b.Property<bool>("Validation")
+                        .HasColumnType("tinyint(1)");
 
                     b.HasKey("Id");
 
