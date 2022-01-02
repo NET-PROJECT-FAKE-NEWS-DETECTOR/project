@@ -1,0 +1,1008 @@
+D:\repos\project\FrontEnd\bin\Debug\net5.0\appsettings.Development.json
+D:\repos\project\FrontEnd\bin\Debug\net5.0\appsettings.json
+D:\repos\project\FrontEnd\bin\Debug\net5.0\WebAPI.exe
+D:\repos\project\FrontEnd\bin\Debug\net5.0\WebAPI.deps.json
+D:\repos\project\FrontEnd\bin\Debug\net5.0\WebAPI.runtimeconfig.json
+D:\repos\project\FrontEnd\bin\Debug\net5.0\WebAPI.runtimeconfig.dev.json
+D:\repos\project\FrontEnd\bin\Debug\net5.0\WebAPI.dll
+D:\repos\project\FrontEnd\bin\Debug\net5.0\ref\WebAPI.dll
+D:\repos\project\FrontEnd\bin\Debug\net5.0\WebAPI.pdb
+D:\repos\project\FrontEnd\bin\Debug\net5.0\WebAPI.Views.dll
+D:\repos\project\FrontEnd\bin\Debug\net5.0\WebAPI.Views.pdb
+D:\repos\project\FrontEnd\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+D:\repos\project\FrontEnd\bin\Debug\net5.0\Google.Protobuf.dll
+D:\repos\project\FrontEnd\bin\Debug\net5.0\Humanizer.dll
+D:\repos\project\FrontEnd\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+D:\repos\project\FrontEnd\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+D:\repos\project\FrontEnd\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+D:\repos\project\FrontEnd\bin\Debug\net5.0\MediatR.dll
+D:\repos\project\FrontEnd\bin\Debug\net5.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+D:\repos\project\FrontEnd\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+D:\repos\project\FrontEnd\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\repos\project\FrontEnd\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\repos\project\FrontEnd\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\repos\project\FrontEnd\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\repos\project\FrontEnd\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\repos\project\FrontEnd\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\repos\project\FrontEnd\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\repos\project\FrontEnd\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+D:\repos\project\FrontEnd\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\repos\project\FrontEnd\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\repos\project\FrontEnd\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\repos\project\FrontEnd\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\repos\project\FrontEnd\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\repos\project\FrontEnd\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\repos\project\FrontEnd\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\repos\project\FrontEnd\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\repos\project\FrontEnd\bin\Debug\net5.0\MySql.Data.dll
+D:\repos\project\FrontEnd\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+D:\repos\project\FrontEnd\bin\Debug\net5.0\ZstdNet.dll
+D:\repos\project\FrontEnd\bin\Debug\net5.0\MySql.EntityFrameworkCore.dll
+D:\repos\project\FrontEnd\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\repos\project\FrontEnd\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\repos\project\FrontEnd\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\repos\project\FrontEnd\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\repos\project\FrontEnd\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\repos\project\FrontEnd\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\repos\project\FrontEnd\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\repos\project\FrontEnd\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\repos\project\FrontEnd\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\repos\project\FrontEnd\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\repos\project\FrontEnd\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\repos\project\FrontEnd\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\repos\project\FrontEnd\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\repos\project\FrontEnd\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\repos\project\FrontEnd\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\repos\project\FrontEnd\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\repos\project\FrontEnd\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\repos\project\FrontEnd\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\repos\project\FrontEnd\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\repos\project\FrontEnd\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\repos\project\FrontEnd\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\repos\project\FrontEnd\bin\Debug\net5.0\Application.dll
+D:\repos\project\FrontEnd\bin\Debug\net5.0\Domain.dll
+D:\repos\project\FrontEnd\bin\Debug\net5.0\Persistence.dll
+D:\repos\project\FrontEnd\bin\Debug\net5.0\Application.pdb
+D:\repos\project\FrontEnd\bin\Debug\net5.0\Persistence.pdb
+D:\repos\project\FrontEnd\bin\Debug\net5.0\Domain.pdb
+D:\repos\project\FrontEnd\obj\Debug\net5.0\WebAPI.csproj.AssemblyReference.cache
+D:\repos\project\FrontEnd\obj\Debug\net5.0\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\project\FrontEnd\obj\Debug\net5.0\WebAPI.AssemblyInfoInputs.cache
+D:\repos\project\FrontEnd\obj\Debug\net5.0\WebAPI.AssemblyInfo.cs
+D:\repos\project\FrontEnd\obj\Debug\net5.0\WebAPI.csproj.CoreCompileInputs.cache
+D:\repos\project\FrontEnd\obj\Debug\net5.0\WebAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\repos\project\FrontEnd\obj\Debug\net5.0\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\repos\project\FrontEnd\obj\Debug\net5.0\WebAPI.RazorAssemblyInfo.cache
+D:\repos\project\FrontEnd\obj\Debug\net5.0\WebAPI.RazorAssemblyInfo.cs
+D:\repos\project\FrontEnd\obj\Debug\net5.0\staticwebassets\WebAPI.StaticWebAssets.Manifest.cache
+D:\repos\project\FrontEnd\obj\Debug\net5.0\staticwebassets\WebAPI.StaticWebAssets.xml
+D:\repos\project\FrontEnd\obj\Debug\net5.0\scopedcss\bundle\WebAPI.styles.css
+D:\repos\project\FrontEnd\obj\Debug\net5.0\WebAPI.TagHelpers.input.cache
+D:\repos\project\FrontEnd\obj\Debug\net5.0\WebAPI.TagHelpers.output.cache
+D:\repos\project\FrontEnd\obj\Debug\net5.0\WebAPI.RazorCoreGenerate.cache
+D:\repos\project\FrontEnd\obj\Debug\net5.0\Razor\Models\Link.cshtml.g.cs
+D:\repos\project\FrontEnd\obj\Debug\net5.0\Razor\Pages\Admin\Admin.cshtml.g.cs
+D:\repos\project\FrontEnd\obj\Debug\net5.0\Razor\Pages\Admin\LogIn.cshtml.g.cs
+D:\repos\project\FrontEnd\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+D:\repos\project\FrontEnd\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+D:\repos\project\FrontEnd\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+D:\repos\project\FrontEnd\obj\Debug\net5.0\Razor\Pages\Result.cshtml.g.cs
+D:\repos\project\FrontEnd\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\repos\project\FrontEnd\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\repos\project\FrontEnd\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\repos\project\FrontEnd\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\repos\project\FrontEnd\obj\Debug\net5.0\WebAPI.RazorTargetAssemblyInfo.cache
+D:\repos\project\FrontEnd\obj\Debug\net5.0\WebAPI.RazorTargetAssemblyInfo.cs
+D:\repos\project\FrontEnd\obj\Debug\net5.0\WebAPI.Views.pdb
+D:\repos\project\FrontEnd\obj\Debug\net5.0\WebAPI.csproj.CopyComplete
+D:\repos\project\FrontEnd\obj\Debug\net5.0\WebAPI.dll
+D:\repos\project\FrontEnd\obj\Debug\net5.0\ref\WebAPI.dll
+D:\repos\project\FrontEnd\obj\Debug\net5.0\WebAPI.pdb
+D:\repos\project\FrontEnd\obj\Debug\net5.0\WebAPI.genruntimeconfig.cache
+D:\repos\project\FrontEnd\bin\Debug\net5.0\System.Net.Http.Formatting.dll
+D:\repos\project\FrontEnd\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\repos\project\WebAPI\bin\Debug\net5.0\appsettings.Development.json
+D:\repos\project\WebAPI\bin\Debug\net5.0\appsettings.json
+D:\repos\project\WebAPI\bin\Debug\net5.0\WebAPI.exe
+D:\repos\project\WebAPI\bin\Debug\net5.0\WebAPI.deps.json
+D:\repos\project\WebAPI\bin\Debug\net5.0\WebAPI.runtimeconfig.json
+D:\repos\project\WebAPI\bin\Debug\net5.0\WebAPI.runtimeconfig.dev.json
+D:\repos\project\WebAPI\bin\Debug\net5.0\WebAPI.dll
+D:\repos\project\WebAPI\bin\Debug\net5.0\ref\WebAPI.dll
+D:\repos\project\WebAPI\bin\Debug\net5.0\WebAPI.pdb
+D:\repos\project\WebAPI\bin\Debug\net5.0\WebAPI.Views.dll
+D:\repos\project\WebAPI\bin\Debug\net5.0\WebAPI.Views.pdb
+D:\repos\project\WebAPI\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+D:\repos\project\WebAPI\bin\Debug\net5.0\Google.Protobuf.dll
+D:\repos\project\WebAPI\bin\Debug\net5.0\Humanizer.dll
+D:\repos\project\WebAPI\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+D:\repos\project\WebAPI\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+D:\repos\project\WebAPI\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+D:\repos\project\WebAPI\bin\Debug\net5.0\MediatR.dll
+D:\repos\project\WebAPI\bin\Debug\net5.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+D:\repos\project\WebAPI\bin\Debug\net5.0\System.Net.Http.Formatting.dll
+D:\repos\project\WebAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+D:\repos\project\WebAPI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\repos\project\WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\repos\project\WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\repos\project\WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\repos\project\WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\repos\project\WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\repos\project\WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\repos\project\WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+D:\repos\project\WebAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\repos\project\WebAPI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\repos\project\WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\repos\project\WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\repos\project\WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\repos\project\WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\repos\project\WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\repos\project\WebAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\repos\project\WebAPI\bin\Debug\net5.0\MySql.Data.dll
+D:\repos\project\WebAPI\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+D:\repos\project\WebAPI\bin\Debug\net5.0\ZstdNet.dll
+D:\repos\project\WebAPI\bin\Debug\net5.0\MySql.EntityFrameworkCore.dll
+D:\repos\project\WebAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\repos\project\WebAPI\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\repos\project\WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\repos\project\WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\repos\project\WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\repos\project\WebAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\repos\project\WebAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\repos\project\WebAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\repos\project\WebAPI\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\repos\project\WebAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\repos\project\WebAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\repos\project\WebAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\repos\project\WebAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\repos\project\WebAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\repos\project\WebAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\repos\project\WebAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\repos\project\WebAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\repos\project\WebAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\repos\project\WebAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\repos\project\WebAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\repos\project\WebAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\repos\project\WebAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\repos\project\WebAPI\bin\Debug\net5.0\Application.dll
+D:\repos\project\WebAPI\bin\Debug\net5.0\Domain.dll
+D:\repos\project\WebAPI\bin\Debug\net5.0\Persistence.dll
+D:\repos\project\WebAPI\bin\Debug\net5.0\Application.pdb
+D:\repos\project\WebAPI\bin\Debug\net5.0\Persistence.pdb
+D:\repos\project\WebAPI\bin\Debug\net5.0\Domain.pdb
+D:\repos\project\WebAPI\obj\Debug\net5.0\WebAPI.csproj.AssemblyReference.cache
+D:\repos\project\WebAPI\obj\Debug\net5.0\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\project\WebAPI\obj\Debug\net5.0\WebAPI.AssemblyInfoInputs.cache
+D:\repos\project\WebAPI\obj\Debug\net5.0\WebAPI.AssemblyInfo.cs
+D:\repos\project\WebAPI\obj\Debug\net5.0\WebAPI.csproj.CoreCompileInputs.cache
+D:\repos\project\WebAPI\obj\Debug\net5.0\WebAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\repos\project\WebAPI\obj\Debug\net5.0\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\repos\project\WebAPI\obj\Debug\net5.0\WebAPI.RazorAssemblyInfo.cache
+D:\repos\project\WebAPI\obj\Debug\net5.0\WebAPI.RazorAssemblyInfo.cs
+D:\repos\project\WebAPI\obj\Debug\net5.0\staticwebassets\WebAPI.StaticWebAssets.Manifest.cache
+D:\repos\project\WebAPI\obj\Debug\net5.0\staticwebassets\WebAPI.StaticWebAssets.xml
+D:\repos\project\WebAPI\obj\Debug\net5.0\scopedcss\bundle\WebAPI.styles.css
+D:\repos\project\WebAPI\obj\Debug\net5.0\WebAPI.TagHelpers.input.cache
+D:\repos\project\WebAPI\obj\Debug\net5.0\WebAPI.TagHelpers.output.cache
+D:\repos\project\WebAPI\obj\Debug\net5.0\WebAPI.RazorCoreGenerate.cache
+D:\repos\project\WebAPI\obj\Debug\net5.0\Razor\Models\Link.cshtml.g.cs
+D:\repos\project\WebAPI\obj\Debug\net5.0\Razor\Pages\Admin\Admin.cshtml.g.cs
+D:\repos\project\WebAPI\obj\Debug\net5.0\Razor\Pages\Admin\LogIn.cshtml.g.cs
+D:\repos\project\WebAPI\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+D:\repos\project\WebAPI\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+D:\repos\project\WebAPI\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+D:\repos\project\WebAPI\obj\Debug\net5.0\Razor\Pages\Result.cshtml.g.cs
+D:\repos\project\WebAPI\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\repos\project\WebAPI\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\repos\project\WebAPI\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\repos\project\WebAPI\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\repos\project\WebAPI\obj\Debug\net5.0\WebAPI.RazorTargetAssemblyInfo.cache
+D:\repos\project\WebAPI\obj\Debug\net5.0\WebAPI.RazorTargetAssemblyInfo.cs
+D:\repos\project\WebAPI\obj\Debug\net5.0\WebAPI.Views.pdb
+D:\repos\project\WebAPI\obj\Debug\net5.0\WebAPI.csproj.CopyComplete
+D:\repos\project\WebAPI\obj\Debug\net5.0\WebAPI.dll
+D:\repos\project\WebAPI\obj\Debug\net5.0\ref\WebAPI.dll
+D:\repos\project\WebAPI\obj\Debug\net5.0\WebAPI.pdb
+D:\repos\project\WebAPI\obj\Debug\net5.0\WebAPI.genruntimeconfig.cache
+C:\Users\claud\Desktop\project-main\WebAPI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\claud\Desktop\project-main\WebAPI\bin\Debug\net5.0\appsettings.json
+C:\Users\claud\Desktop\project-main\WebAPI\bin\Debug\net5.0\WebAPI.exe
+C:\Users\claud\Desktop\project-main\WebAPI\bin\Debug\net5.0\WebAPI.deps.json
+C:\Users\claud\Desktop\project-main\WebAPI\bin\Debug\net5.0\WebAPI.runtimeconfig.json
+C:\Users\claud\Desktop\project-main\WebAPI\bin\Debug\net5.0\WebAPI.runtimeconfig.dev.json
+C:\Users\claud\Desktop\project-main\WebAPI\bin\Debug\net5.0\WebAPI.dll
+C:\Users\claud\Desktop\project-main\WebAPI\bin\Debug\net5.0\ref\WebAPI.dll
+C:\Users\claud\Desktop\project-main\WebAPI\bin\Debug\net5.0\WebAPI.pdb
+C:\Users\claud\Desktop\project-main\WebAPI\bin\Debug\net5.0\WebAPI.Views.dll
+C:\Users\claud\Desktop\project-main\WebAPI\bin\Debug\net5.0\WebAPI.Views.pdb
+C:\Users\claud\Desktop\project-main\WebAPI\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\claud\Desktop\project-main\WebAPI\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\claud\Desktop\project-main\WebAPI\bin\Debug\net5.0\Humanizer.dll
+C:\Users\claud\Desktop\project-main\WebAPI\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Users\claud\Desktop\project-main\WebAPI\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\claud\Desktop\project-main\WebAPI\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Users\claud\Desktop\project-main\WebAPI\bin\Debug\net5.0\MediatR.dll
+C:\Users\claud\Desktop\project-main\WebAPI\bin\Debug\net5.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\claud\Desktop\project-main\WebAPI\bin\Debug\net5.0\System.Net.Http.Formatting.dll
+C:\Users\claud\Desktop\project-main\WebAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+C:\Users\claud\Desktop\project-main\WebAPI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\claud\Desktop\project-main\WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\claud\Desktop\project-main\WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\claud\Desktop\project-main\WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\claud\Desktop\project-main\WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\claud\Desktop\project-main\WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\claud\Desktop\project-main\WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\claud\Desktop\project-main\WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\claud\Desktop\project-main\WebAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\claud\Desktop\project-main\WebAPI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\claud\Desktop\project-main\WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\claud\Desktop\project-main\WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\claud\Desktop\project-main\WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\claud\Desktop\project-main\WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\claud\Desktop\project-main\WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\claud\Desktop\project-main\WebAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\claud\Desktop\project-main\WebAPI\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\claud\Desktop\project-main\WebAPI\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+C:\Users\claud\Desktop\project-main\WebAPI\bin\Debug\net5.0\ZstdNet.dll
+C:\Users\claud\Desktop\project-main\WebAPI\bin\Debug\net5.0\MySql.EntityFrameworkCore.dll
+C:\Users\claud\Desktop\project-main\WebAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\claud\Desktop\project-main\WebAPI\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\claud\Desktop\project-main\WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\claud\Desktop\project-main\WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\claud\Desktop\project-main\WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\claud\Desktop\project-main\WebAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\claud\Desktop\project-main\WebAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\claud\Desktop\project-main\WebAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\claud\Desktop\project-main\WebAPI\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\claud\Desktop\project-main\WebAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\claud\Desktop\project-main\WebAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\claud\Desktop\project-main\WebAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\claud\Desktop\project-main\WebAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\claud\Desktop\project-main\WebAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\claud\Desktop\project-main\WebAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\claud\Desktop\project-main\WebAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\claud\Desktop\project-main\WebAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\claud\Desktop\project-main\WebAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\claud\Desktop\project-main\WebAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\claud\Desktop\project-main\WebAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\claud\Desktop\project-main\WebAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\claud\Desktop\project-main\WebAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\claud\Desktop\project-main\WebAPI\bin\Debug\net5.0\Application.dll
+C:\Users\claud\Desktop\project-main\WebAPI\bin\Debug\net5.0\Domain.dll
+C:\Users\claud\Desktop\project-main\WebAPI\bin\Debug\net5.0\Persistence.dll
+C:\Users\claud\Desktop\project-main\WebAPI\bin\Debug\net5.0\Application.pdb
+C:\Users\claud\Desktop\project-main\WebAPI\bin\Debug\net5.0\Persistence.pdb
+C:\Users\claud\Desktop\project-main\WebAPI\bin\Debug\net5.0\Domain.pdb
+C:\Users\claud\Desktop\project-main\WebAPI\obj\Debug\net5.0\WebAPI.csproj.AssemblyReference.cache
+C:\Users\claud\Desktop\project-main\WebAPI\obj\Debug\net5.0\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\claud\Desktop\project-main\WebAPI\obj\Debug\net5.0\WebAPI.AssemblyInfoInputs.cache
+C:\Users\claud\Desktop\project-main\WebAPI\obj\Debug\net5.0\WebAPI.AssemblyInfo.cs
+C:\Users\claud\Desktop\project-main\WebAPI\obj\Debug\net5.0\WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\claud\Desktop\project-main\WebAPI\obj\Debug\net5.0\WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\claud\Desktop\project-main\WebAPI\obj\Debug\net5.0\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\claud\Desktop\project-main\WebAPI\obj\Debug\net5.0\WebAPI.RazorAssemblyInfo.cache
+C:\Users\claud\Desktop\project-main\WebAPI\obj\Debug\net5.0\WebAPI.RazorAssemblyInfo.cs
+C:\Users\claud\Desktop\project-main\WebAPI\obj\Debug\net5.0\staticwebassets\WebAPI.StaticWebAssets.Manifest.cache
+C:\Users\claud\Desktop\project-main\WebAPI\obj\Debug\net5.0\staticwebassets\WebAPI.StaticWebAssets.xml
+C:\Users\claud\Desktop\project-main\WebAPI\obj\Debug\net5.0\scopedcss\bundle\WebAPI.styles.css
+C:\Users\claud\Desktop\project-main\WebAPI\obj\Debug\net5.0\WebAPI.TagHelpers.input.cache
+C:\Users\claud\Desktop\project-main\WebAPI\obj\Debug\net5.0\WebAPI.TagHelpers.output.cache
+C:\Users\claud\Desktop\project-main\WebAPI\obj\Debug\net5.0\WebAPI.RazorCoreGenerate.cache
+C:\Users\claud\Desktop\project-main\WebAPI\obj\Debug\net5.0\Razor\Models\Link.cshtml.g.cs
+C:\Users\claud\Desktop\project-main\WebAPI\obj\Debug\net5.0\Razor\Pages\Admin\Admin.cshtml.g.cs
+C:\Users\claud\Desktop\project-main\WebAPI\obj\Debug\net5.0\Razor\Pages\Admin\LogIn.cshtml.g.cs
+C:\Users\claud\Desktop\project-main\WebAPI\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\claud\Desktop\project-main\WebAPI\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\claud\Desktop\project-main\WebAPI\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\claud\Desktop\project-main\WebAPI\obj\Debug\net5.0\Razor\Pages\Result.cshtml.g.cs
+C:\Users\claud\Desktop\project-main\WebAPI\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\claud\Desktop\project-main\WebAPI\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\claud\Desktop\project-main\WebAPI\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\claud\Desktop\project-main\WebAPI\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\claud\Desktop\project-main\WebAPI\obj\Debug\net5.0\WebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\claud\Desktop\project-main\WebAPI\obj\Debug\net5.0\WebAPI.RazorTargetAssemblyInfo.cs
+C:\Users\claud\Desktop\project-main\WebAPI\obj\Debug\net5.0\WebAPI.Views.pdb
+C:\Users\claud\Desktop\project-main\WebAPI\obj\Debug\net5.0\WebAPI.csproj.CopyComplete
+C:\Users\claud\Desktop\project-main\WebAPI\obj\Debug\net5.0\WebAPI.dll
+C:\Users\claud\Desktop\project-main\WebAPI\obj\Debug\net5.0\ref\WebAPI.dll
+C:\Users\claud\Desktop\project-main\WebAPI\obj\Debug\net5.0\WebAPI.pdb
+C:\Users\claud\Desktop\project-main\WebAPI\obj\Debug\net5.0\WebAPI.genruntimeconfig.cache
+C:\Users\claud\Desktop\project-main\WebAPI\bin\Debug\net5.0\Microsoft.ML.Core.dll
+C:\Users\claud\Desktop\project-main\WebAPI\bin\Debug\net5.0\Microsoft.ML.Data.dll
+C:\Users\claud\Desktop\project-main\WebAPI\bin\Debug\net5.0\Microsoft.ML.KMeansClustering.dll
+C:\Users\claud\Desktop\project-main\WebAPI\bin\Debug\net5.0\Microsoft.ML.PCA.dll
+C:\Users\claud\Desktop\project-main\WebAPI\bin\Debug\net5.0\Microsoft.ML.StandardTrainers.dll
+C:\Users\claud\Desktop\project-main\WebAPI\bin\Debug\net5.0\Microsoft.ML.Transforms.dll
+C:\Users\claud\Desktop\project-main\WebAPI\bin\Debug\net5.0\Microsoft.ML.dll
+C:\Users\claud\Desktop\project-main\WebAPI\bin\Debug\net5.0\Microsoft.ML.CpuMath.dll
+C:\Users\claud\Desktop\project-main\WebAPI\bin\Debug\net5.0\Microsoft.ML.DataView.dll
+C:\Users\claud\Desktop\project-main\WebAPI\bin\Debug\net5.0\System.CodeDom.dll
+C:\Users\claud\Desktop\project-main\WebAPI\bin\Debug\net5.0\runtimes\linux-arm\native\libLdaNative.so
+C:\Users\claud\Desktop\project-main\WebAPI\bin\Debug\net5.0\runtimes\linux-arm64\native\libLdaNative.so
+C:\Users\claud\Desktop\project-main\WebAPI\bin\Debug\net5.0\runtimes\linux-x64\native\libLdaNative.so
+C:\Users\claud\Desktop\project-main\WebAPI\bin\Debug\net5.0\runtimes\osx-arm64\native\libLdaNative.dylib
+C:\Users\claud\Desktop\project-main\WebAPI\bin\Debug\net5.0\runtimes\osx-x64\native\libLdaNative.dylib
+C:\Users\claud\Desktop\project-main\WebAPI\bin\Debug\net5.0\runtimes\win-x64\native\LdaNative.dll
+C:\Users\claud\Desktop\project-main\WebAPI\bin\Debug\net5.0\runtimes\win-x86\native\LdaNative.dll
+C:\Users\claud\Desktop\project-main\WebAPI\bin\Debug\net5.0\HtmlAgilityPack.dll
+C:\Users\claud\Desktop\project-main\WebAPI\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\claud\Desktop\project-main\WebAPI\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\claud\Desktop\project-main\WebAPI\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\claud\Desktop\project-main\WebAPI\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\claud\Desktop\project-main\WebAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\claud\Desktop\project-main\WebAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\claud\Desktop\project-main\WebAPI\bin\Debug\net5.0\Castle.Core.dll
+C:\Users\claud\Desktop\project-main\WebAPI\bin\Debug\net5.0\FakeItEasy.dll
+C:\Users\claud\Desktop\project-main\WebAPI\bin\Debug\net5.0\FluentAssertions.dll
+C:\Users\claud\Desktop\project-main\WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\.NET\project-main\project-main\WebAPI\bin\Debug\net5.0\appsettings.Development.json
+D:\.NET\project-main\project-main\WebAPI\bin\Debug\net5.0\appsettings.json
+D:\.NET\project-main\project-main\WebAPI\bin\Debug\net5.0\WebAPI.exe
+D:\.NET\project-main\project-main\WebAPI\bin\Debug\net5.0\WebAPI.deps.json
+D:\.NET\project-main\project-main\WebAPI\bin\Debug\net5.0\WebAPI.runtimeconfig.json
+D:\.NET\project-main\project-main\WebAPI\bin\Debug\net5.0\WebAPI.runtimeconfig.dev.json
+D:\.NET\project-main\project-main\WebAPI\bin\Debug\net5.0\WebAPI.dll
+D:\.NET\project-main\project-main\WebAPI\bin\Debug\net5.0\ref\WebAPI.dll
+D:\.NET\project-main\project-main\WebAPI\bin\Debug\net5.0\WebAPI.pdb
+D:\.NET\project-main\project-main\WebAPI\bin\Debug\net5.0\WebAPI.Views.dll
+D:\.NET\project-main\project-main\WebAPI\bin\Debug\net5.0\WebAPI.Views.pdb
+D:\.NET\project-main\project-main\WebAPI\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+D:\.NET\project-main\project-main\WebAPI\bin\Debug\net5.0\Castle.Core.dll
+D:\.NET\project-main\project-main\WebAPI\bin\Debug\net5.0\FakeItEasy.dll
+D:\.NET\project-main\project-main\WebAPI\bin\Debug\net5.0\FluentAssertions.dll
+D:\.NET\project-main\project-main\WebAPI\bin\Debug\net5.0\Google.Protobuf.dll
+D:\.NET\project-main\project-main\WebAPI\bin\Debug\net5.0\HtmlAgilityPack.dll
+D:\.NET\project-main\project-main\WebAPI\bin\Debug\net5.0\Humanizer.dll
+D:\.NET\project-main\project-main\WebAPI\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+D:\.NET\project-main\project-main\WebAPI\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+D:\.NET\project-main\project-main\WebAPI\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+D:\.NET\project-main\project-main\WebAPI\bin\Debug\net5.0\MediatR.dll
+D:\.NET\project-main\project-main\WebAPI\bin\Debug\net5.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+D:\.NET\project-main\project-main\WebAPI\bin\Debug\net5.0\System.Net.Http.Formatting.dll
+D:\.NET\project-main\project-main\WebAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+D:\.NET\project-main\project-main\WebAPI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\.NET\project-main\project-main\WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\.NET\project-main\project-main\WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\.NET\project-main\project-main\WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\.NET\project-main\project-main\WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\.NET\project-main\project-main\WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\.NET\project-main\project-main\WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\.NET\project-main\project-main\WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\.NET\project-main\project-main\WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+D:\.NET\project-main\project-main\WebAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\.NET\project-main\project-main\WebAPI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\.NET\project-main\project-main\WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\.NET\project-main\project-main\WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\.NET\project-main\project-main\WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\.NET\project-main\project-main\WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\.NET\project-main\project-main\WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\.NET\project-main\project-main\WebAPI\bin\Debug\net5.0\Microsoft.ML.Core.dll
+D:\.NET\project-main\project-main\WebAPI\bin\Debug\net5.0\Microsoft.ML.Data.dll
+D:\.NET\project-main\project-main\WebAPI\bin\Debug\net5.0\Microsoft.ML.KMeansClustering.dll
+D:\.NET\project-main\project-main\WebAPI\bin\Debug\net5.0\Microsoft.ML.PCA.dll
+D:\.NET\project-main\project-main\WebAPI\bin\Debug\net5.0\Microsoft.ML.StandardTrainers.dll
+D:\.NET\project-main\project-main\WebAPI\bin\Debug\net5.0\Microsoft.ML.Transforms.dll
+D:\.NET\project-main\project-main\WebAPI\bin\Debug\net5.0\Microsoft.ML.dll
+D:\.NET\project-main\project-main\WebAPI\bin\Debug\net5.0\Microsoft.ML.CpuMath.dll
+D:\.NET\project-main\project-main\WebAPI\bin\Debug\net5.0\Microsoft.ML.DataView.dll
+D:\.NET\project-main\project-main\WebAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\.NET\project-main\project-main\WebAPI\bin\Debug\net5.0\MySql.Data.dll
+D:\.NET\project-main\project-main\WebAPI\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+D:\.NET\project-main\project-main\WebAPI\bin\Debug\net5.0\ZstdNet.dll
+D:\.NET\project-main\project-main\WebAPI\bin\Debug\net5.0\MySql.EntityFrameworkCore.dll
+D:\.NET\project-main\project-main\WebAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\.NET\project-main\project-main\WebAPI\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\.NET\project-main\project-main\WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\.NET\project-main\project-main\WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\.NET\project-main\project-main\WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\.NET\project-main\project-main\WebAPI\bin\Debug\net5.0\System.CodeDom.dll
+D:\.NET\project-main\project-main\WebAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\.NET\project-main\project-main\WebAPI\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\.NET\project-main\project-main\WebAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\.NET\project-main\project-main\WebAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\.NET\project-main\project-main\WebAPI\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\.NET\project-main\project-main\WebAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\.NET\project-main\project-main\WebAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\.NET\project-main\project-main\WebAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\.NET\project-main\project-main\WebAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.NET\project-main\project-main\WebAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\.NET\project-main\project-main\WebAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.NET\project-main\project-main\WebAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\.NET\project-main\project-main\WebAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.NET\project-main\project-main\WebAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\.NET\project-main\project-main\WebAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.NET\project-main\project-main\WebAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\.NET\project-main\project-main\WebAPI\bin\Debug\net5.0\runtimes\linux-arm\native\libLdaNative.so
+D:\.NET\project-main\project-main\WebAPI\bin\Debug\net5.0\runtimes\linux-arm64\native\libLdaNative.so
+D:\.NET\project-main\project-main\WebAPI\bin\Debug\net5.0\runtimes\linux-x64\native\libLdaNative.so
+D:\.NET\project-main\project-main\WebAPI\bin\Debug\net5.0\runtimes\osx-arm64\native\libLdaNative.dylib
+D:\.NET\project-main\project-main\WebAPI\bin\Debug\net5.0\runtimes\osx-x64\native\libLdaNative.dylib
+D:\.NET\project-main\project-main\WebAPI\bin\Debug\net5.0\runtimes\win-x64\native\LdaNative.dll
+D:\.NET\project-main\project-main\WebAPI\bin\Debug\net5.0\runtimes\win-x86\native\LdaNative.dll
+D:\.NET\project-main\project-main\WebAPI\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\.NET\project-main\project-main\WebAPI\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\.NET\project-main\project-main\WebAPI\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\.NET\project-main\project-main\WebAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\.NET\project-main\project-main\WebAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\.NET\project-main\project-main\WebAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\.NET\project-main\project-main\WebAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\.NET\project-main\project-main\WebAPI\bin\Debug\net5.0\Application.dll
+D:\.NET\project-main\project-main\WebAPI\bin\Debug\net5.0\Domain.dll
+D:\.NET\project-main\project-main\WebAPI\bin\Debug\net5.0\Persistence.dll
+D:\.NET\project-main\project-main\WebAPI\bin\Debug\net5.0\Application.pdb
+D:\.NET\project-main\project-main\WebAPI\bin\Debug\net5.0\Persistence.pdb
+D:\.NET\project-main\project-main\WebAPI\bin\Debug\net5.0\Domain.pdb
+D:\.NET\project-main\project-main\WebAPI\obj\Debug\net5.0\WebAPI.csproj.AssemblyReference.cache
+D:\.NET\project-main\project-main\WebAPI\obj\Debug\net5.0\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\project-main\project-main\WebAPI\obj\Debug\net5.0\WebAPI.AssemblyInfoInputs.cache
+D:\.NET\project-main\project-main\WebAPI\obj\Debug\net5.0\WebAPI.AssemblyInfo.cs
+D:\.NET\project-main\project-main\WebAPI\obj\Debug\net5.0\WebAPI.csproj.CoreCompileInputs.cache
+D:\.NET\project-main\project-main\WebAPI\obj\Debug\net5.0\WebAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\.NET\project-main\project-main\WebAPI\obj\Debug\net5.0\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\.NET\project-main\project-main\WebAPI\obj\Debug\net5.0\WebAPI.RazorAssemblyInfo.cache
+D:\.NET\project-main\project-main\WebAPI\obj\Debug\net5.0\WebAPI.RazorAssemblyInfo.cs
+D:\.NET\project-main\project-main\WebAPI\obj\Debug\net5.0\staticwebassets\WebAPI.StaticWebAssets.Manifest.cache
+D:\.NET\project-main\project-main\WebAPI\obj\Debug\net5.0\staticwebassets\WebAPI.StaticWebAssets.xml
+D:\.NET\project-main\project-main\WebAPI\obj\Debug\net5.0\scopedcss\bundle\WebAPI.styles.css
+D:\.NET\project-main\project-main\WebAPI\obj\Debug\net5.0\WebAPI.TagHelpers.input.cache
+D:\.NET\project-main\project-main\WebAPI\obj\Debug\net5.0\WebAPI.TagHelpers.output.cache
+D:\.NET\project-main\project-main\WebAPI\obj\Debug\net5.0\WebAPI.RazorCoreGenerate.cache
+D:\.NET\project-main\project-main\WebAPI\obj\Debug\net5.0\Razor\Models\Link.cshtml.g.cs
+D:\.NET\project-main\project-main\WebAPI\obj\Debug\net5.0\Razor\Pages\Admin\Admin.cshtml.g.cs
+D:\.NET\project-main\project-main\WebAPI\obj\Debug\net5.0\Razor\Pages\Admin\LogIn.cshtml.g.cs
+D:\.NET\project-main\project-main\WebAPI\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+D:\.NET\project-main\project-main\WebAPI\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+D:\.NET\project-main\project-main\WebAPI\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+D:\.NET\project-main\project-main\WebAPI\obj\Debug\net5.0\Razor\Pages\Result.cshtml.g.cs
+D:\.NET\project-main\project-main\WebAPI\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\.NET\project-main\project-main\WebAPI\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\.NET\project-main\project-main\WebAPI\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\.NET\project-main\project-main\WebAPI\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\.NET\project-main\project-main\WebAPI\obj\Debug\net5.0\WebAPI.RazorTargetAssemblyInfo.cache
+D:\.NET\project-main\project-main\WebAPI\obj\Debug\net5.0\WebAPI.RazorTargetAssemblyInfo.cs
+D:\.NET\project-main\project-main\WebAPI\obj\Debug\net5.0\WebAPI.Views.pdb
+D:\.NET\project-main\project-main\WebAPI\obj\Debug\net5.0\WebAPI.csproj.CopyComplete
+D:\.NET\project-main\project-main\WebAPI\obj\Debug\net5.0\WebAPI.dll
+D:\.NET\project-main\project-main\WebAPI\obj\Debug\net5.0\ref\WebAPI.dll
+D:\.NET\project-main\project-main\WebAPI\obj\Debug\net5.0\WebAPI.pdb
+D:\.NET\project-main\project-main\WebAPI\obj\Debug\net5.0\WebAPI.genruntimeconfig.cache
+C:\Users\40757\Desktop\ANUL 3\.NET\project\WebAPI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\40757\Desktop\ANUL 3\.NET\project\WebAPI\bin\Debug\net5.0\appsettings.json
+C:\Users\40757\Desktop\ANUL 3\.NET\project\WebAPI\bin\Debug\net5.0\WebAPI.exe
+C:\Users\40757\Desktop\ANUL 3\.NET\project\WebAPI\bin\Debug\net5.0\WebAPI.deps.json
+C:\Users\40757\Desktop\ANUL 3\.NET\project\WebAPI\bin\Debug\net5.0\WebAPI.runtimeconfig.json
+C:\Users\40757\Desktop\ANUL 3\.NET\project\WebAPI\bin\Debug\net5.0\WebAPI.runtimeconfig.dev.json
+C:\Users\40757\Desktop\ANUL 3\.NET\project\WebAPI\bin\Debug\net5.0\WebAPI.dll
+C:\Users\40757\Desktop\ANUL 3\.NET\project\WebAPI\bin\Debug\net5.0\ref\WebAPI.dll
+C:\Users\40757\Desktop\ANUL 3\.NET\project\WebAPI\bin\Debug\net5.0\WebAPI.pdb
+C:\Users\40757\Desktop\ANUL 3\.NET\project\WebAPI\bin\Debug\net5.0\WebAPI.Views.dll
+C:\Users\40757\Desktop\ANUL 3\.NET\project\WebAPI\bin\Debug\net5.0\WebAPI.Views.pdb
+C:\Users\40757\Desktop\ANUL 3\.NET\project\WebAPI\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\40757\Desktop\ANUL 3\.NET\project\WebAPI\bin\Debug\net5.0\Castle.Core.dll
+C:\Users\40757\Desktop\ANUL 3\.NET\project\WebAPI\bin\Debug\net5.0\FakeItEasy.dll
+C:\Users\40757\Desktop\ANUL 3\.NET\project\WebAPI\bin\Debug\net5.0\FluentAssertions.dll
+C:\Users\40757\Desktop\ANUL 3\.NET\project\WebAPI\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\40757\Desktop\ANUL 3\.NET\project\WebAPI\bin\Debug\net5.0\HtmlAgilityPack.dll
+C:\Users\40757\Desktop\ANUL 3\.NET\project\WebAPI\bin\Debug\net5.0\Humanizer.dll
+C:\Users\40757\Desktop\ANUL 3\.NET\project\WebAPI\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Users\40757\Desktop\ANUL 3\.NET\project\WebAPI\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\40757\Desktop\ANUL 3\.NET\project\WebAPI\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Users\40757\Desktop\ANUL 3\.NET\project\WebAPI\bin\Debug\net5.0\MediatR.dll
+C:\Users\40757\Desktop\ANUL 3\.NET\project\WebAPI\bin\Debug\net5.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\40757\Desktop\ANUL 3\.NET\project\WebAPI\bin\Debug\net5.0\System.Net.Http.Formatting.dll
+C:\Users\40757\Desktop\ANUL 3\.NET\project\WebAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+C:\Users\40757\Desktop\ANUL 3\.NET\project\WebAPI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\40757\Desktop\ANUL 3\.NET\project\WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\40757\Desktop\ANUL 3\.NET\project\WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\40757\Desktop\ANUL 3\.NET\project\WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\40757\Desktop\ANUL 3\.NET\project\WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\40757\Desktop\ANUL 3\.NET\project\WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\40757\Desktop\ANUL 3\.NET\project\WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\40757\Desktop\ANUL 3\.NET\project\WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\40757\Desktop\ANUL 3\.NET\project\WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\40757\Desktop\ANUL 3\.NET\project\WebAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\40757\Desktop\ANUL 3\.NET\project\WebAPI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\40757\Desktop\ANUL 3\.NET\project\WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\40757\Desktop\ANUL 3\.NET\project\WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\40757\Desktop\ANUL 3\.NET\project\WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\40757\Desktop\ANUL 3\.NET\project\WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\40757\Desktop\ANUL 3\.NET\project\WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\40757\Desktop\ANUL 3\.NET\project\WebAPI\bin\Debug\net5.0\Microsoft.ML.Core.dll
+C:\Users\40757\Desktop\ANUL 3\.NET\project\WebAPI\bin\Debug\net5.0\Microsoft.ML.Data.dll
+C:\Users\40757\Desktop\ANUL 3\.NET\project\WebAPI\bin\Debug\net5.0\Microsoft.ML.KMeansClustering.dll
+C:\Users\40757\Desktop\ANUL 3\.NET\project\WebAPI\bin\Debug\net5.0\Microsoft.ML.PCA.dll
+C:\Users\40757\Desktop\ANUL 3\.NET\project\WebAPI\bin\Debug\net5.0\Microsoft.ML.StandardTrainers.dll
+C:\Users\40757\Desktop\ANUL 3\.NET\project\WebAPI\bin\Debug\net5.0\Microsoft.ML.Transforms.dll
+C:\Users\40757\Desktop\ANUL 3\.NET\project\WebAPI\bin\Debug\net5.0\Microsoft.ML.dll
+C:\Users\40757\Desktop\ANUL 3\.NET\project\WebAPI\bin\Debug\net5.0\Microsoft.ML.CpuMath.dll
+C:\Users\40757\Desktop\ANUL 3\.NET\project\WebAPI\bin\Debug\net5.0\Microsoft.ML.DataView.dll
+C:\Users\40757\Desktop\ANUL 3\.NET\project\WebAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\40757\Desktop\ANUL 3\.NET\project\WebAPI\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\40757\Desktop\ANUL 3\.NET\project\WebAPI\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+C:\Users\40757\Desktop\ANUL 3\.NET\project\WebAPI\bin\Debug\net5.0\ZstdNet.dll
+C:\Users\40757\Desktop\ANUL 3\.NET\project\WebAPI\bin\Debug\net5.0\MySql.EntityFrameworkCore.dll
+C:\Users\40757\Desktop\ANUL 3\.NET\project\WebAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\40757\Desktop\ANUL 3\.NET\project\WebAPI\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\40757\Desktop\ANUL 3\.NET\project\WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\40757\Desktop\ANUL 3\.NET\project\WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\40757\Desktop\ANUL 3\.NET\project\WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\40757\Desktop\ANUL 3\.NET\project\WebAPI\bin\Debug\net5.0\System.CodeDom.dll
+C:\Users\40757\Desktop\ANUL 3\.NET\project\WebAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\40757\Desktop\ANUL 3\.NET\project\WebAPI\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\40757\Desktop\ANUL 3\.NET\project\WebAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\40757\Desktop\ANUL 3\.NET\project\WebAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\40757\Desktop\ANUL 3\.NET\project\WebAPI\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\40757\Desktop\ANUL 3\.NET\project\WebAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\40757\Desktop\ANUL 3\.NET\project\WebAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\40757\Desktop\ANUL 3\.NET\project\WebAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\40757\Desktop\ANUL 3\.NET\project\WebAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\40757\Desktop\ANUL 3\.NET\project\WebAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\40757\Desktop\ANUL 3\.NET\project\WebAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\40757\Desktop\ANUL 3\.NET\project\WebAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\40757\Desktop\ANUL 3\.NET\project\WebAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\40757\Desktop\ANUL 3\.NET\project\WebAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\40757\Desktop\ANUL 3\.NET\project\WebAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\40757\Desktop\ANUL 3\.NET\project\WebAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\40757\Desktop\ANUL 3\.NET\project\WebAPI\bin\Debug\net5.0\runtimes\linux-arm\native\libLdaNative.so
+C:\Users\40757\Desktop\ANUL 3\.NET\project\WebAPI\bin\Debug\net5.0\runtimes\linux-arm64\native\libLdaNative.so
+C:\Users\40757\Desktop\ANUL 3\.NET\project\WebAPI\bin\Debug\net5.0\runtimes\linux-x64\native\libLdaNative.so
+C:\Users\40757\Desktop\ANUL 3\.NET\project\WebAPI\bin\Debug\net5.0\runtimes\osx-arm64\native\libLdaNative.dylib
+C:\Users\40757\Desktop\ANUL 3\.NET\project\WebAPI\bin\Debug\net5.0\runtimes\osx-x64\native\libLdaNative.dylib
+C:\Users\40757\Desktop\ANUL 3\.NET\project\WebAPI\bin\Debug\net5.0\runtimes\win-x64\native\LdaNative.dll
+C:\Users\40757\Desktop\ANUL 3\.NET\project\WebAPI\bin\Debug\net5.0\runtimes\win-x86\native\LdaNative.dll
+C:\Users\40757\Desktop\ANUL 3\.NET\project\WebAPI\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\40757\Desktop\ANUL 3\.NET\project\WebAPI\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\40757\Desktop\ANUL 3\.NET\project\WebAPI\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\40757\Desktop\ANUL 3\.NET\project\WebAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\40757\Desktop\ANUL 3\.NET\project\WebAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\40757\Desktop\ANUL 3\.NET\project\WebAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\40757\Desktop\ANUL 3\.NET\project\WebAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\40757\Desktop\ANUL 3\.NET\project\WebAPI\bin\Debug\net5.0\Application.dll
+C:\Users\40757\Desktop\ANUL 3\.NET\project\WebAPI\bin\Debug\net5.0\Domain.dll
+C:\Users\40757\Desktop\ANUL 3\.NET\project\WebAPI\bin\Debug\net5.0\Persistence.dll
+C:\Users\40757\Desktop\ANUL 3\.NET\project\WebAPI\bin\Debug\net5.0\Application.pdb
+C:\Users\40757\Desktop\ANUL 3\.NET\project\WebAPI\bin\Debug\net5.0\Persistence.pdb
+C:\Users\40757\Desktop\ANUL 3\.NET\project\WebAPI\bin\Debug\net5.0\Domain.pdb
+C:\Users\40757\Desktop\ANUL 3\.NET\project\WebAPI\obj\Debug\net5.0\WebAPI.csproj.AssemblyReference.cache
+C:\Users\40757\Desktop\ANUL 3\.NET\project\WebAPI\obj\Debug\net5.0\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\40757\Desktop\ANUL 3\.NET\project\WebAPI\obj\Debug\net5.0\WebAPI.AssemblyInfoInputs.cache
+C:\Users\40757\Desktop\ANUL 3\.NET\project\WebAPI\obj\Debug\net5.0\WebAPI.AssemblyInfo.cs
+C:\Users\40757\Desktop\ANUL 3\.NET\project\WebAPI\obj\Debug\net5.0\WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\40757\Desktop\ANUL 3\.NET\project\WebAPI\obj\Debug\net5.0\WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\40757\Desktop\ANUL 3\.NET\project\WebAPI\obj\Debug\net5.0\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\40757\Desktop\ANUL 3\.NET\project\WebAPI\obj\Debug\net5.0\WebAPI.RazorAssemblyInfo.cache
+C:\Users\40757\Desktop\ANUL 3\.NET\project\WebAPI\obj\Debug\net5.0\WebAPI.RazorAssemblyInfo.cs
+C:\Users\40757\Desktop\ANUL 3\.NET\project\WebAPI\obj\Debug\net5.0\staticwebassets\WebAPI.StaticWebAssets.Manifest.cache
+C:\Users\40757\Desktop\ANUL 3\.NET\project\WebAPI\obj\Debug\net5.0\staticwebassets\WebAPI.StaticWebAssets.xml
+C:\Users\40757\Desktop\ANUL 3\.NET\project\WebAPI\obj\Debug\net5.0\scopedcss\bundle\WebAPI.styles.css
+C:\Users\40757\Desktop\ANUL 3\.NET\project\WebAPI\obj\Debug\net5.0\WebAPI.TagHelpers.input.cache
+C:\Users\40757\Desktop\ANUL 3\.NET\project\WebAPI\obj\Debug\net5.0\WebAPI.TagHelpers.output.cache
+C:\Users\40757\Desktop\ANUL 3\.NET\project\WebAPI\obj\Debug\net5.0\WebAPI.RazorCoreGenerate.cache
+C:\Users\40757\Desktop\ANUL 3\.NET\project\WebAPI\obj\Debug\net5.0\Razor\Models\Link.cshtml.g.cs
+C:\Users\40757\Desktop\ANUL 3\.NET\project\WebAPI\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\40757\Desktop\ANUL 3\.NET\project\WebAPI\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\40757\Desktop\ANUL 3\.NET\project\WebAPI\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\40757\Desktop\ANUL 3\.NET\project\WebAPI\obj\Debug\net5.0\Razor\Pages\Result.cshtml.g.cs
+C:\Users\40757\Desktop\ANUL 3\.NET\project\WebAPI\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\40757\Desktop\ANUL 3\.NET\project\WebAPI\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\40757\Desktop\ANUL 3\.NET\project\WebAPI\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\40757\Desktop\ANUL 3\.NET\project\WebAPI\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\40757\Desktop\ANUL 3\.NET\project\WebAPI\obj\Debug\net5.0\WebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\40757\Desktop\ANUL 3\.NET\project\WebAPI\obj\Debug\net5.0\WebAPI.RazorTargetAssemblyInfo.cs
+C:\Users\40757\Desktop\ANUL 3\.NET\project\WebAPI\obj\Debug\net5.0\WebAPI.Views.pdb
+C:\Users\40757\Desktop\ANUL 3\.NET\project\WebAPI\obj\Debug\net5.0\WebAPI.csproj.CopyComplete
+C:\Users\40757\Desktop\ANUL 3\.NET\project\WebAPI\obj\Debug\net5.0\WebAPI.dll
+C:\Users\40757\Desktop\ANUL 3\.NET\project\WebAPI\obj\Debug\net5.0\ref\WebAPI.dll
+C:\Users\40757\Desktop\ANUL 3\.NET\project\WebAPI\obj\Debug\net5.0\WebAPI.pdb
+C:\Users\40757\Desktop\ANUL 3\.NET\project\WebAPI\obj\Debug\net5.0\WebAPI.genruntimeconfig.cache
+C:\Users\40757\Desktop\ANUL 3\.NET\project\WebAPI\obj\Debug\net5.0\Razor\Pages\Account\Admin.cshtml.g.cs
+C:\Users\40757\Desktop\ANUL 3\.NET\project\WebAPI\obj\Debug\net5.0\Razor\Pages\Account\Login.cshtml.g.cs
+C:\Users\40757\Desktop\ANUL 3\.NET\project\WebAPI\obj\Debug\net5.0\Razor\Pages\Account\Logout.cshtml.g.cs
+C:\Users\40757\Desktop\ANUL 3\.NET\project\WebAPI\obj\Debug\net5.0\Razor\Pages\Errors\AccessDenied.cshtml.g.cs
+C:\Users\40757\Desktop\ANUL 3\.NET\project\WebAPI\obj\Debug\net5.0\Razor\Pages\Errors\Error404.cshtml.g.cs
+C:\Users\40757\Desktop\ANUL 3\.NET\project\WebAPI\obj\Debug\net5.0\Razor\Pages\Shared\_LoginStatusPartial.cshtml.g.cs
+d:\Facultate\.NET\Proiect_Git\project\WebAPI\obj\Debug\net5.0\WebAPI.csproj.AssemblyReference.cache
+d:\Facultate\.NET\Proiect_Git\project\WebAPI\obj\Debug\net5.0\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+d:\Facultate\.NET\Proiect_Git\project\WebAPI\obj\Debug\net5.0\WebAPI.AssemblyInfoInputs.cache
+d:\Facultate\.NET\Proiect_Git\project\WebAPI\obj\Debug\net5.0\WebAPI.AssemblyInfo.cs
+d:\Facultate\.NET\Proiect_Git\project\WebAPI\obj\Debug\net5.0\WebAPI.csproj.CoreCompileInputs.cache
+d:\Facultate\.NET\Proiect_Git\project\WebAPI\obj\Debug\net5.0\WebAPI.MvcApplicationPartsAssemblyInfo.cs
+d:\Facultate\.NET\Proiect_Git\project\WebAPI\obj\Debug\net5.0\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+d:\Facultate\.NET\Proiect_Git\project\WebAPI\obj\Debug\net5.0\WebAPI.RazorAssemblyInfo.cache
+d:\Facultate\.NET\Proiect_Git\project\WebAPI\obj\Debug\net5.0\WebAPI.RazorAssemblyInfo.cs
+d:\Facultate\.NET\Proiect_Git\project\WebAPI\obj\Debug\net5.0\WebAPI.dll
+d:\Facultate\.NET\Proiect_Git\project\WebAPI\obj\Debug\net5.0\ref\WebAPI.dll
+d:\Facultate\.NET\Proiect_Git\project\WebAPI\obj\Debug\net5.0\WebAPI.pdb
+d:\Facultate\.NET\Proiect_Git\project\WebAPI\bin\Debug\net5.0\appsettings.Development.json
+d:\Facultate\.NET\Proiect_Git\project\WebAPI\bin\Debug\net5.0\appsettings.json
+d:\Facultate\.NET\Proiect_Git\project\WebAPI\bin\Debug\net5.0\WebAPI.StaticWebAssets.xml
+d:\Facultate\.NET\Proiect_Git\project\WebAPI\bin\Debug\net5.0\WebAPI.exe
+d:\Facultate\.NET\Proiect_Git\project\WebAPI\bin\Debug\net5.0\WebAPI.deps.json
+d:\Facultate\.NET\Proiect_Git\project\WebAPI\bin\Debug\net5.0\WebAPI.runtimeconfig.json
+d:\Facultate\.NET\Proiect_Git\project\WebAPI\bin\Debug\net5.0\WebAPI.runtimeconfig.dev.json
+d:\Facultate\.NET\Proiect_Git\project\WebAPI\bin\Debug\net5.0\WebAPI.dll
+d:\Facultate\.NET\Proiect_Git\project\WebAPI\bin\Debug\net5.0\ref\WebAPI.dll
+d:\Facultate\.NET\Proiect_Git\project\WebAPI\bin\Debug\net5.0\WebAPI.pdb
+d:\Facultate\.NET\Proiect_Git\project\WebAPI\bin\Debug\net5.0\WebAPI.Views.dll
+d:\Facultate\.NET\Proiect_Git\project\WebAPI\bin\Debug\net5.0\WebAPI.Views.pdb
+d:\Facultate\.NET\Proiect_Git\project\WebAPI\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+d:\Facultate\.NET\Proiect_Git\project\WebAPI\bin\Debug\net5.0\Castle.Core.dll
+d:\Facultate\.NET\Proiect_Git\project\WebAPI\bin\Debug\net5.0\FakeItEasy.dll
+d:\Facultate\.NET\Proiect_Git\project\WebAPI\bin\Debug\net5.0\FluentAssertions.dll
+d:\Facultate\.NET\Proiect_Git\project\WebAPI\bin\Debug\net5.0\Google.Protobuf.dll
+d:\Facultate\.NET\Proiect_Git\project\WebAPI\bin\Debug\net5.0\HtmlAgilityPack.dll
+d:\Facultate\.NET\Proiect_Git\project\WebAPI\bin\Debug\net5.0\Humanizer.dll
+d:\Facultate\.NET\Proiect_Git\project\WebAPI\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+d:\Facultate\.NET\Proiect_Git\project\WebAPI\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+d:\Facultate\.NET\Proiect_Git\project\WebAPI\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+d:\Facultate\.NET\Proiect_Git\project\WebAPI\bin\Debug\net5.0\MediatR.dll
+d:\Facultate\.NET\Proiect_Git\project\WebAPI\bin\Debug\net5.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+d:\Facultate\.NET\Proiect_Git\project\WebAPI\bin\Debug\net5.0\System.Net.Http.Formatting.dll
+d:\Facultate\.NET\Proiect_Git\project\WebAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+d:\Facultate\.NET\Proiect_Git\project\WebAPI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+d:\Facultate\.NET\Proiect_Git\project\WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+d:\Facultate\.NET\Proiect_Git\project\WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+d:\Facultate\.NET\Proiect_Git\project\WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+d:\Facultate\.NET\Proiect_Git\project\WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+d:\Facultate\.NET\Proiect_Git\project\WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+d:\Facultate\.NET\Proiect_Git\project\WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+d:\Facultate\.NET\Proiect_Git\project\WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+d:\Facultate\.NET\Proiect_Git\project\WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+d:\Facultate\.NET\Proiect_Git\project\WebAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+d:\Facultate\.NET\Proiect_Git\project\WebAPI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+d:\Facultate\.NET\Proiect_Git\project\WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+d:\Facultate\.NET\Proiect_Git\project\WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+d:\Facultate\.NET\Proiect_Git\project\WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+d:\Facultate\.NET\Proiect_Git\project\WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+d:\Facultate\.NET\Proiect_Git\project\WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+d:\Facultate\.NET\Proiect_Git\project\WebAPI\bin\Debug\net5.0\Microsoft.ML.Core.dll
+d:\Facultate\.NET\Proiect_Git\project\WebAPI\bin\Debug\net5.0\Microsoft.ML.Data.dll
+d:\Facultate\.NET\Proiect_Git\project\WebAPI\bin\Debug\net5.0\Microsoft.ML.KMeansClustering.dll
+d:\Facultate\.NET\Proiect_Git\project\WebAPI\bin\Debug\net5.0\Microsoft.ML.PCA.dll
+d:\Facultate\.NET\Proiect_Git\project\WebAPI\bin\Debug\net5.0\Microsoft.ML.StandardTrainers.dll
+d:\Facultate\.NET\Proiect_Git\project\WebAPI\bin\Debug\net5.0\Microsoft.ML.Transforms.dll
+d:\Facultate\.NET\Proiect_Git\project\WebAPI\bin\Debug\net5.0\Microsoft.ML.dll
+d:\Facultate\.NET\Proiect_Git\project\WebAPI\bin\Debug\net5.0\Microsoft.ML.CpuMath.dll
+d:\Facultate\.NET\Proiect_Git\project\WebAPI\bin\Debug\net5.0\Microsoft.ML.DataView.dll
+d:\Facultate\.NET\Proiect_Git\project\WebAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+d:\Facultate\.NET\Proiect_Git\project\WebAPI\bin\Debug\net5.0\MySql.Data.dll
+d:\Facultate\.NET\Proiect_Git\project\WebAPI\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+d:\Facultate\.NET\Proiect_Git\project\WebAPI\bin\Debug\net5.0\ZstdNet.dll
+d:\Facultate\.NET\Proiect_Git\project\WebAPI\bin\Debug\net5.0\MySql.EntityFrameworkCore.dll
+d:\Facultate\.NET\Proiect_Git\project\WebAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+d:\Facultate\.NET\Proiect_Git\project\WebAPI\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+d:\Facultate\.NET\Proiect_Git\project\WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+d:\Facultate\.NET\Proiect_Git\project\WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+d:\Facultate\.NET\Proiect_Git\project\WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+d:\Facultate\.NET\Proiect_Git\project\WebAPI\bin\Debug\net5.0\System.CodeDom.dll
+d:\Facultate\.NET\Proiect_Git\project\WebAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+d:\Facultate\.NET\Proiect_Git\project\WebAPI\bin\Debug\net5.0\System.Data.SqlClient.dll
+d:\Facultate\.NET\Proiect_Git\project\WebAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+d:\Facultate\.NET\Proiect_Git\project\WebAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+d:\Facultate\.NET\Proiect_Git\project\WebAPI\bin\Debug\net5.0\System.Runtime.Caching.dll
+d:\Facultate\.NET\Proiect_Git\project\WebAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+d:\Facultate\.NET\Proiect_Git\project\WebAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+d:\Facultate\.NET\Proiect_Git\project\WebAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+d:\Facultate\.NET\Proiect_Git\project\WebAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+d:\Facultate\.NET\Proiect_Git\project\WebAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+d:\Facultate\.NET\Proiect_Git\project\WebAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+d:\Facultate\.NET\Proiect_Git\project\WebAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+d:\Facultate\.NET\Proiect_Git\project\WebAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+d:\Facultate\.NET\Proiect_Git\project\WebAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+d:\Facultate\.NET\Proiect_Git\project\WebAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+d:\Facultate\.NET\Proiect_Git\project\WebAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+d:\Facultate\.NET\Proiect_Git\project\WebAPI\bin\Debug\net5.0\runtimes\linux-arm\native\libLdaNative.so
+d:\Facultate\.NET\Proiect_Git\project\WebAPI\bin\Debug\net5.0\runtimes\linux-arm64\native\libLdaNative.so
+d:\Facultate\.NET\Proiect_Git\project\WebAPI\bin\Debug\net5.0\runtimes\linux-x64\native\libLdaNative.so
+d:\Facultate\.NET\Proiect_Git\project\WebAPI\bin\Debug\net5.0\runtimes\osx-arm64\native\libLdaNative.dylib
+d:\Facultate\.NET\Proiect_Git\project\WebAPI\bin\Debug\net5.0\runtimes\osx-x64\native\libLdaNative.dylib
+d:\Facultate\.NET\Proiect_Git\project\WebAPI\bin\Debug\net5.0\runtimes\win-x64\native\LdaNative.dll
+d:\Facultate\.NET\Proiect_Git\project\WebAPI\bin\Debug\net5.0\runtimes\win-x86\native\LdaNative.dll
+d:\Facultate\.NET\Proiect_Git\project\WebAPI\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+d:\Facultate\.NET\Proiect_Git\project\WebAPI\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+d:\Facultate\.NET\Proiect_Git\project\WebAPI\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+d:\Facultate\.NET\Proiect_Git\project\WebAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+d:\Facultate\.NET\Proiect_Git\project\WebAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+d:\Facultate\.NET\Proiect_Git\project\WebAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+d:\Facultate\.NET\Proiect_Git\project\WebAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+d:\Facultate\.NET\Proiect_Git\project\WebAPI\bin\Debug\net5.0\Application.dll
+d:\Facultate\.NET\Proiect_Git\project\WebAPI\bin\Debug\net5.0\Domain.dll
+d:\Facultate\.NET\Proiect_Git\project\WebAPI\bin\Debug\net5.0\Persistence.dll
+d:\Facultate\.NET\Proiect_Git\project\WebAPI\bin\Debug\net5.0\Application.pdb
+d:\Facultate\.NET\Proiect_Git\project\WebAPI\bin\Debug\net5.0\Persistence.pdb
+d:\Facultate\.NET\Proiect_Git\project\WebAPI\bin\Debug\net5.0\Domain.pdb
+d:\Facultate\.NET\Proiect_Git\project\WebAPI\obj\Debug\net5.0\scopedcss\bundle\WebAPI.styles.css
+d:\Facultate\.NET\Proiect_Git\project\WebAPI\obj\Debug\net5.0\staticwebassets\WebAPI.StaticWebAssets.Manifest.cache
+d:\Facultate\.NET\Proiect_Git\project\WebAPI\obj\Debug\net5.0\WebAPI.TagHelpers.input.cache
+d:\Facultate\.NET\Proiect_Git\project\WebAPI\obj\Debug\net5.0\WebAPI.TagHelpers.output.cache
+d:\Facultate\.NET\Proiect_Git\project\WebAPI\obj\Debug\net5.0\WebAPI.RazorCoreGenerate.cache
+d:\Facultate\.NET\Proiect_Git\project\WebAPI\obj\Debug\net5.0\Razor\Models\Link.cshtml.g.cs
+d:\Facultate\.NET\Proiect_Git\project\WebAPI\obj\Debug\net5.0\Razor\Pages\Account\Admin.cshtml.g.cs
+d:\Facultate\.NET\Proiect_Git\project\WebAPI\obj\Debug\net5.0\Razor\Pages\Account\Login.cshtml.g.cs
+d:\Facultate\.NET\Proiect_Git\project\WebAPI\obj\Debug\net5.0\Razor\Pages\Account\Logout.cshtml.g.cs
+d:\Facultate\.NET\Proiect_Git\project\WebAPI\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+d:\Facultate\.NET\Proiect_Git\project\WebAPI\obj\Debug\net5.0\Razor\Pages\Errors\AccessDenied.cshtml.g.cs
+d:\Facultate\.NET\Proiect_Git\project\WebAPI\obj\Debug\net5.0\Razor\Pages\Errors\Error404.cshtml.g.cs
+d:\Facultate\.NET\Proiect_Git\project\WebAPI\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+d:\Facultate\.NET\Proiect_Git\project\WebAPI\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+d:\Facultate\.NET\Proiect_Git\project\WebAPI\obj\Debug\net5.0\Razor\Pages\Result.cshtml.g.cs
+d:\Facultate\.NET\Proiect_Git\project\WebAPI\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+d:\Facultate\.NET\Proiect_Git\project\WebAPI\obj\Debug\net5.0\Razor\Pages\Shared\_LoginStatusPartial.cshtml.g.cs
+d:\Facultate\.NET\Proiect_Git\project\WebAPI\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+d:\Facultate\.NET\Proiect_Git\project\WebAPI\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+d:\Facultate\.NET\Proiect_Git\project\WebAPI\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+d:\Facultate\.NET\Proiect_Git\project\WebAPI\obj\Debug\net5.0\WebAPI.RazorTargetAssemblyInfo.cache
+d:\Facultate\.NET\Proiect_Git\project\WebAPI\obj\Debug\net5.0\WebAPI.RazorTargetAssemblyInfo.cs
+d:\Facultate\.NET\Proiect_Git\project\WebAPI\obj\Debug\net5.0\WebAPI.Views.pdb
+d:\Facultate\.NET\Proiect_Git\project\WebAPI\obj\Debug\net5.0\WebAPI.csproj.CopyComplete
+d:\Facultate\.NET\Proiect_Git\project\WebAPI\obj\Debug\net5.0\WebAPI.genruntimeconfig.cache
+D:\faculty\dot-net\nou proj\project\WebAPI\bin\Debug\net5.0\appsettings.Development.json
+D:\faculty\dot-net\nou proj\project\WebAPI\bin\Debug\net5.0\appsettings.json
+D:\faculty\dot-net\nou proj\project\WebAPI\bin\Debug\net5.0\WebAPI.exe
+D:\faculty\dot-net\nou proj\project\WebAPI\bin\Debug\net5.0\WebAPI.deps.json
+D:\faculty\dot-net\nou proj\project\WebAPI\bin\Debug\net5.0\WebAPI.runtimeconfig.json
+D:\faculty\dot-net\nou proj\project\WebAPI\bin\Debug\net5.0\WebAPI.runtimeconfig.dev.json
+D:\faculty\dot-net\nou proj\project\WebAPI\bin\Debug\net5.0\WebAPI.dll
+D:\faculty\dot-net\nou proj\project\WebAPI\bin\Debug\net5.0\ref\WebAPI.dll
+D:\faculty\dot-net\nou proj\project\WebAPI\bin\Debug\net5.0\WebAPI.pdb
+D:\faculty\dot-net\nou proj\project\WebAPI\bin\Debug\net5.0\WebAPI.Views.dll
+D:\faculty\dot-net\nou proj\project\WebAPI\bin\Debug\net5.0\WebAPI.Views.pdb
+D:\faculty\dot-net\nou proj\project\WebAPI\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+D:\faculty\dot-net\nou proj\project\WebAPI\bin\Debug\net5.0\Castle.Core.dll
+D:\faculty\dot-net\nou proj\project\WebAPI\bin\Debug\net5.0\FakeItEasy.dll
+D:\faculty\dot-net\nou proj\project\WebAPI\bin\Debug\net5.0\FluentAssertions.dll
+D:\faculty\dot-net\nou proj\project\WebAPI\bin\Debug\net5.0\Google.Protobuf.dll
+D:\faculty\dot-net\nou proj\project\WebAPI\bin\Debug\net5.0\HtmlAgilityPack.dll
+D:\faculty\dot-net\nou proj\project\WebAPI\bin\Debug\net5.0\Humanizer.dll
+D:\faculty\dot-net\nou proj\project\WebAPI\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+D:\faculty\dot-net\nou proj\project\WebAPI\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+D:\faculty\dot-net\nou proj\project\WebAPI\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+D:\faculty\dot-net\nou proj\project\WebAPI\bin\Debug\net5.0\MediatR.dll
+D:\faculty\dot-net\nou proj\project\WebAPI\bin\Debug\net5.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+D:\faculty\dot-net\nou proj\project\WebAPI\bin\Debug\net5.0\System.Net.Http.Formatting.dll
+D:\faculty\dot-net\nou proj\project\WebAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+D:\faculty\dot-net\nou proj\project\WebAPI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\faculty\dot-net\nou proj\project\WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\faculty\dot-net\nou proj\project\WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\faculty\dot-net\nou proj\project\WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\faculty\dot-net\nou proj\project\WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\faculty\dot-net\nou proj\project\WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\faculty\dot-net\nou proj\project\WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\faculty\dot-net\nou proj\project\WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\faculty\dot-net\nou proj\project\WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+D:\faculty\dot-net\nou proj\project\WebAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\faculty\dot-net\nou proj\project\WebAPI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\faculty\dot-net\nou proj\project\WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\faculty\dot-net\nou proj\project\WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\faculty\dot-net\nou proj\project\WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\faculty\dot-net\nou proj\project\WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\faculty\dot-net\nou proj\project\WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\faculty\dot-net\nou proj\project\WebAPI\bin\Debug\net5.0\Microsoft.ML.Core.dll
+D:\faculty\dot-net\nou proj\project\WebAPI\bin\Debug\net5.0\Microsoft.ML.Data.dll
+D:\faculty\dot-net\nou proj\project\WebAPI\bin\Debug\net5.0\Microsoft.ML.KMeansClustering.dll
+D:\faculty\dot-net\nou proj\project\WebAPI\bin\Debug\net5.0\Microsoft.ML.PCA.dll
+D:\faculty\dot-net\nou proj\project\WebAPI\bin\Debug\net5.0\Microsoft.ML.StandardTrainers.dll
+D:\faculty\dot-net\nou proj\project\WebAPI\bin\Debug\net5.0\Microsoft.ML.Transforms.dll
+D:\faculty\dot-net\nou proj\project\WebAPI\bin\Debug\net5.0\Microsoft.ML.dll
+D:\faculty\dot-net\nou proj\project\WebAPI\bin\Debug\net5.0\Microsoft.ML.CpuMath.dll
+D:\faculty\dot-net\nou proj\project\WebAPI\bin\Debug\net5.0\Microsoft.ML.DataView.dll
+D:\faculty\dot-net\nou proj\project\WebAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\faculty\dot-net\nou proj\project\WebAPI\bin\Debug\net5.0\MySql.Data.dll
+D:\faculty\dot-net\nou proj\project\WebAPI\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+D:\faculty\dot-net\nou proj\project\WebAPI\bin\Debug\net5.0\ZstdNet.dll
+D:\faculty\dot-net\nou proj\project\WebAPI\bin\Debug\net5.0\MySql.EntityFrameworkCore.dll
+D:\faculty\dot-net\nou proj\project\WebAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\faculty\dot-net\nou proj\project\WebAPI\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\faculty\dot-net\nou proj\project\WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\faculty\dot-net\nou proj\project\WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\faculty\dot-net\nou proj\project\WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\faculty\dot-net\nou proj\project\WebAPI\bin\Debug\net5.0\System.CodeDom.dll
+D:\faculty\dot-net\nou proj\project\WebAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\faculty\dot-net\nou proj\project\WebAPI\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\faculty\dot-net\nou proj\project\WebAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\faculty\dot-net\nou proj\project\WebAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\faculty\dot-net\nou proj\project\WebAPI\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\faculty\dot-net\nou proj\project\WebAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\faculty\dot-net\nou proj\project\WebAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\faculty\dot-net\nou proj\project\WebAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\faculty\dot-net\nou proj\project\WebAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\faculty\dot-net\nou proj\project\WebAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\faculty\dot-net\nou proj\project\WebAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\faculty\dot-net\nou proj\project\WebAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\faculty\dot-net\nou proj\project\WebAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\faculty\dot-net\nou proj\project\WebAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\faculty\dot-net\nou proj\project\WebAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\faculty\dot-net\nou proj\project\WebAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\faculty\dot-net\nou proj\project\WebAPI\bin\Debug\net5.0\runtimes\linux-arm\native\libLdaNative.so
+D:\faculty\dot-net\nou proj\project\WebAPI\bin\Debug\net5.0\runtimes\linux-arm64\native\libLdaNative.so
+D:\faculty\dot-net\nou proj\project\WebAPI\bin\Debug\net5.0\runtimes\linux-x64\native\libLdaNative.so
+D:\faculty\dot-net\nou proj\project\WebAPI\bin\Debug\net5.0\runtimes\osx-arm64\native\libLdaNative.dylib
+D:\faculty\dot-net\nou proj\project\WebAPI\bin\Debug\net5.0\runtimes\osx-x64\native\libLdaNative.dylib
+D:\faculty\dot-net\nou proj\project\WebAPI\bin\Debug\net5.0\runtimes\win-x64\native\LdaNative.dll
+D:\faculty\dot-net\nou proj\project\WebAPI\bin\Debug\net5.0\runtimes\win-x86\native\LdaNative.dll
+D:\faculty\dot-net\nou proj\project\WebAPI\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\faculty\dot-net\nou proj\project\WebAPI\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\faculty\dot-net\nou proj\project\WebAPI\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\faculty\dot-net\nou proj\project\WebAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\faculty\dot-net\nou proj\project\WebAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\faculty\dot-net\nou proj\project\WebAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\faculty\dot-net\nou proj\project\WebAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\faculty\dot-net\nou proj\project\WebAPI\bin\Debug\net5.0\Application.dll
+D:\faculty\dot-net\nou proj\project\WebAPI\bin\Debug\net5.0\Domain.dll
+D:\faculty\dot-net\nou proj\project\WebAPI\bin\Debug\net5.0\Persistence.dll
+D:\faculty\dot-net\nou proj\project\WebAPI\bin\Debug\net5.0\Application.pdb
+D:\faculty\dot-net\nou proj\project\WebAPI\bin\Debug\net5.0\Persistence.pdb
+D:\faculty\dot-net\nou proj\project\WebAPI\bin\Debug\net5.0\Domain.pdb
+D:\faculty\dot-net\nou proj\project\WebAPI\obj\Debug\net5.0\WebAPI.csproj.AssemblyReference.cache
+D:\faculty\dot-net\nou proj\project\WebAPI\obj\Debug\net5.0\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\faculty\dot-net\nou proj\project\WebAPI\obj\Debug\net5.0\WebAPI.AssemblyInfoInputs.cache
+D:\faculty\dot-net\nou proj\project\WebAPI\obj\Debug\net5.0\WebAPI.AssemblyInfo.cs
+D:\faculty\dot-net\nou proj\project\WebAPI\obj\Debug\net5.0\WebAPI.csproj.CoreCompileInputs.cache
+D:\faculty\dot-net\nou proj\project\WebAPI\obj\Debug\net5.0\WebAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\faculty\dot-net\nou proj\project\WebAPI\obj\Debug\net5.0\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\faculty\dot-net\nou proj\project\WebAPI\obj\Debug\net5.0\WebAPI.RazorAssemblyInfo.cache
+D:\faculty\dot-net\nou proj\project\WebAPI\obj\Debug\net5.0\WebAPI.RazorAssemblyInfo.cs
+D:\faculty\dot-net\nou proj\project\WebAPI\obj\Debug\net5.0\staticwebassets\WebAPI.StaticWebAssets.Manifest.cache
+D:\faculty\dot-net\nou proj\project\WebAPI\obj\Debug\net5.0\staticwebassets\WebAPI.StaticWebAssets.xml
+D:\faculty\dot-net\nou proj\project\WebAPI\obj\Debug\net5.0\scopedcss\bundle\WebAPI.styles.css
+D:\faculty\dot-net\nou proj\project\WebAPI\obj\Debug\net5.0\WebAPI.TagHelpers.input.cache
+D:\faculty\dot-net\nou proj\project\WebAPI\obj\Debug\net5.0\WebAPI.TagHelpers.output.cache
+D:\faculty\dot-net\nou proj\project\WebAPI\obj\Debug\net5.0\WebAPI.RazorCoreGenerate.cache
+D:\faculty\dot-net\nou proj\project\WebAPI\obj\Debug\net5.0\Razor\Models\Link.cshtml.g.cs
+D:\faculty\dot-net\nou proj\project\WebAPI\obj\Debug\net5.0\Razor\Pages\Account\Admin.cshtml.g.cs
+D:\faculty\dot-net\nou proj\project\WebAPI\obj\Debug\net5.0\Razor\Pages\Account\Login.cshtml.g.cs
+D:\faculty\dot-net\nou proj\project\WebAPI\obj\Debug\net5.0\Razor\Pages\Account\Logout.cshtml.g.cs
+D:\faculty\dot-net\nou proj\project\WebAPI\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+D:\faculty\dot-net\nou proj\project\WebAPI\obj\Debug\net5.0\Razor\Pages\Errors\AccessDenied.cshtml.g.cs
+D:\faculty\dot-net\nou proj\project\WebAPI\obj\Debug\net5.0\Razor\Pages\Errors\Error404.cshtml.g.cs
+D:\faculty\dot-net\nou proj\project\WebAPI\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+D:\faculty\dot-net\nou proj\project\WebAPI\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+D:\faculty\dot-net\nou proj\project\WebAPI\obj\Debug\net5.0\Razor\Pages\Result.cshtml.g.cs
+D:\faculty\dot-net\nou proj\project\WebAPI\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\faculty\dot-net\nou proj\project\WebAPI\obj\Debug\net5.0\Razor\Pages\Shared\_LoginStatusPartial.cshtml.g.cs
+D:\faculty\dot-net\nou proj\project\WebAPI\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\faculty\dot-net\nou proj\project\WebAPI\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\faculty\dot-net\nou proj\project\WebAPI\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\faculty\dot-net\nou proj\project\WebAPI\obj\Debug\net5.0\WebAPI.RazorTargetAssemblyInfo.cache
+D:\faculty\dot-net\nou proj\project\WebAPI\obj\Debug\net5.0\WebAPI.RazorTargetAssemblyInfo.cs
+D:\faculty\dot-net\nou proj\project\WebAPI\obj\Debug\net5.0\WebAPI.Views.pdb
+D:\faculty\dot-net\nou proj\project\WebAPI\obj\Debug\net5.0\WebAPI.csproj.CopyComplete
+D:\faculty\dot-net\nou proj\project\WebAPI\obj\Debug\net5.0\WebAPI.dll
+D:\faculty\dot-net\nou proj\project\WebAPI\obj\Debug\net5.0\ref\WebAPI.dll
+D:\faculty\dot-net\nou proj\project\WebAPI\obj\Debug\net5.0\WebAPI.pdb
+D:\faculty\dot-net\nou proj\project\WebAPI\obj\Debug\net5.0\WebAPI.genruntimeconfig.cache
+D:\.NET\fake_news_detection\project-main\WebAPI\bin\Debug\net5.0\appsettings.Development.json
+D:\.NET\fake_news_detection\project-main\WebAPI\bin\Debug\net5.0\appsettings.json
+D:\.NET\fake_news_detection\project-main\WebAPI\bin\Debug\net5.0\WebAPI.exe
+D:\.NET\fake_news_detection\project-main\WebAPI\bin\Debug\net5.0\WebAPI.deps.json
+D:\.NET\fake_news_detection\project-main\WebAPI\bin\Debug\net5.0\WebAPI.runtimeconfig.json
+D:\.NET\fake_news_detection\project-main\WebAPI\bin\Debug\net5.0\WebAPI.runtimeconfig.dev.json
+D:\.NET\fake_news_detection\project-main\WebAPI\bin\Debug\net5.0\WebAPI.dll
+D:\.NET\fake_news_detection\project-main\WebAPI\bin\Debug\net5.0\ref\WebAPI.dll
+D:\.NET\fake_news_detection\project-main\WebAPI\bin\Debug\net5.0\WebAPI.pdb
+D:\.NET\fake_news_detection\project-main\WebAPI\bin\Debug\net5.0\WebAPI.Views.dll
+D:\.NET\fake_news_detection\project-main\WebAPI\bin\Debug\net5.0\WebAPI.Views.pdb
+D:\.NET\fake_news_detection\project-main\WebAPI\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+D:\.NET\fake_news_detection\project-main\WebAPI\bin\Debug\net5.0\Castle.Core.dll
+D:\.NET\fake_news_detection\project-main\WebAPI\bin\Debug\net5.0\FakeItEasy.dll
+D:\.NET\fake_news_detection\project-main\WebAPI\bin\Debug\net5.0\FluentAssertions.dll
+D:\.NET\fake_news_detection\project-main\WebAPI\bin\Debug\net5.0\Google.Protobuf.dll
+D:\.NET\fake_news_detection\project-main\WebAPI\bin\Debug\net5.0\HtmlAgilityPack.dll
+D:\.NET\fake_news_detection\project-main\WebAPI\bin\Debug\net5.0\Humanizer.dll
+D:\.NET\fake_news_detection\project-main\WebAPI\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+D:\.NET\fake_news_detection\project-main\WebAPI\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+D:\.NET\fake_news_detection\project-main\WebAPI\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+D:\.NET\fake_news_detection\project-main\WebAPI\bin\Debug\net5.0\MediatR.dll
+D:\.NET\fake_news_detection\project-main\WebAPI\bin\Debug\net5.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+D:\.NET\fake_news_detection\project-main\WebAPI\bin\Debug\net5.0\System.Net.Http.Formatting.dll
+D:\.NET\fake_news_detection\project-main\WebAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+D:\.NET\fake_news_detection\project-main\WebAPI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\.NET\fake_news_detection\project-main\WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\.NET\fake_news_detection\project-main\WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\.NET\fake_news_detection\project-main\WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\.NET\fake_news_detection\project-main\WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\.NET\fake_news_detection\project-main\WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\.NET\fake_news_detection\project-main\WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\.NET\fake_news_detection\project-main\WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\.NET\fake_news_detection\project-main\WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+D:\.NET\fake_news_detection\project-main\WebAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\.NET\fake_news_detection\project-main\WebAPI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\.NET\fake_news_detection\project-main\WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\.NET\fake_news_detection\project-main\WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\.NET\fake_news_detection\project-main\WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\.NET\fake_news_detection\project-main\WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\.NET\fake_news_detection\project-main\WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\.NET\fake_news_detection\project-main\WebAPI\bin\Debug\net5.0\Microsoft.ML.Core.dll
+D:\.NET\fake_news_detection\project-main\WebAPI\bin\Debug\net5.0\Microsoft.ML.Data.dll
+D:\.NET\fake_news_detection\project-main\WebAPI\bin\Debug\net5.0\Microsoft.ML.KMeansClustering.dll
+D:\.NET\fake_news_detection\project-main\WebAPI\bin\Debug\net5.0\Microsoft.ML.PCA.dll
+D:\.NET\fake_news_detection\project-main\WebAPI\bin\Debug\net5.0\Microsoft.ML.StandardTrainers.dll
+D:\.NET\fake_news_detection\project-main\WebAPI\bin\Debug\net5.0\Microsoft.ML.Transforms.dll
+D:\.NET\fake_news_detection\project-main\WebAPI\bin\Debug\net5.0\Microsoft.ML.dll
+D:\.NET\fake_news_detection\project-main\WebAPI\bin\Debug\net5.0\Microsoft.ML.CpuMath.dll
+D:\.NET\fake_news_detection\project-main\WebAPI\bin\Debug\net5.0\Microsoft.ML.DataView.dll
+D:\.NET\fake_news_detection\project-main\WebAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\.NET\fake_news_detection\project-main\WebAPI\bin\Debug\net5.0\MySql.Data.dll
+D:\.NET\fake_news_detection\project-main\WebAPI\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+D:\.NET\fake_news_detection\project-main\WebAPI\bin\Debug\net5.0\ZstdNet.dll
+D:\.NET\fake_news_detection\project-main\WebAPI\bin\Debug\net5.0\MySql.EntityFrameworkCore.dll
+D:\.NET\fake_news_detection\project-main\WebAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\.NET\fake_news_detection\project-main\WebAPI\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\.NET\fake_news_detection\project-main\WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\.NET\fake_news_detection\project-main\WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\.NET\fake_news_detection\project-main\WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\.NET\fake_news_detection\project-main\WebAPI\bin\Debug\net5.0\System.CodeDom.dll
+D:\.NET\fake_news_detection\project-main\WebAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\.NET\fake_news_detection\project-main\WebAPI\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\.NET\fake_news_detection\project-main\WebAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\.NET\fake_news_detection\project-main\WebAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\.NET\fake_news_detection\project-main\WebAPI\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\.NET\fake_news_detection\project-main\WebAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\.NET\fake_news_detection\project-main\WebAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\.NET\fake_news_detection\project-main\WebAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\.NET\fake_news_detection\project-main\WebAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.NET\fake_news_detection\project-main\WebAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\.NET\fake_news_detection\project-main\WebAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.NET\fake_news_detection\project-main\WebAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\.NET\fake_news_detection\project-main\WebAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.NET\fake_news_detection\project-main\WebAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\.NET\fake_news_detection\project-main\WebAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.NET\fake_news_detection\project-main\WebAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\.NET\fake_news_detection\project-main\WebAPI\bin\Debug\net5.0\runtimes\linux-arm\native\libLdaNative.so
+D:\.NET\fake_news_detection\project-main\WebAPI\bin\Debug\net5.0\runtimes\linux-arm64\native\libLdaNative.so
+D:\.NET\fake_news_detection\project-main\WebAPI\bin\Debug\net5.0\runtimes\linux-x64\native\libLdaNative.so
+D:\.NET\fake_news_detection\project-main\WebAPI\bin\Debug\net5.0\runtimes\osx-arm64\native\libLdaNative.dylib
+D:\.NET\fake_news_detection\project-main\WebAPI\bin\Debug\net5.0\runtimes\osx-x64\native\libLdaNative.dylib
+D:\.NET\fake_news_detection\project-main\WebAPI\bin\Debug\net5.0\runtimes\win-x64\native\LdaNative.dll
+D:\.NET\fake_news_detection\project-main\WebAPI\bin\Debug\net5.0\runtimes\win-x86\native\LdaNative.dll
+D:\.NET\fake_news_detection\project-main\WebAPI\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\.NET\fake_news_detection\project-main\WebAPI\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\.NET\fake_news_detection\project-main\WebAPI\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\.NET\fake_news_detection\project-main\WebAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\.NET\fake_news_detection\project-main\WebAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\.NET\fake_news_detection\project-main\WebAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\.NET\fake_news_detection\project-main\WebAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\.NET\fake_news_detection\project-main\WebAPI\bin\Debug\net5.0\Application.dll
+D:\.NET\fake_news_detection\project-main\WebAPI\bin\Debug\net5.0\Domain.dll
+D:\.NET\fake_news_detection\project-main\WebAPI\bin\Debug\net5.0\Persistence.dll
+D:\.NET\fake_news_detection\project-main\WebAPI\bin\Debug\net5.0\Application.pdb
+D:\.NET\fake_news_detection\project-main\WebAPI\bin\Debug\net5.0\Persistence.pdb
+D:\.NET\fake_news_detection\project-main\WebAPI\bin\Debug\net5.0\Domain.pdb
+D:\.NET\fake_news_detection\project-main\WebAPI\obj\Debug\net5.0\WebAPI.csproj.AssemblyReference.cache
+D:\.NET\fake_news_detection\project-main\WebAPI\obj\Debug\net5.0\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\fake_news_detection\project-main\WebAPI\obj\Debug\net5.0\WebAPI.AssemblyInfoInputs.cache
+D:\.NET\fake_news_detection\project-main\WebAPI\obj\Debug\net5.0\WebAPI.AssemblyInfo.cs
+D:\.NET\fake_news_detection\project-main\WebAPI\obj\Debug\net5.0\WebAPI.csproj.CoreCompileInputs.cache
+D:\.NET\fake_news_detection\project-main\WebAPI\obj\Debug\net5.0\WebAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\.NET\fake_news_detection\project-main\WebAPI\obj\Debug\net5.0\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\.NET\fake_news_detection\project-main\WebAPI\obj\Debug\net5.0\WebAPI.RazorAssemblyInfo.cache
+D:\.NET\fake_news_detection\project-main\WebAPI\obj\Debug\net5.0\WebAPI.RazorAssemblyInfo.cs
+D:\.NET\fake_news_detection\project-main\WebAPI\obj\Debug\net5.0\staticwebassets\WebAPI.StaticWebAssets.Manifest.cache
+D:\.NET\fake_news_detection\project-main\WebAPI\obj\Debug\net5.0\staticwebassets\WebAPI.StaticWebAssets.xml
+D:\.NET\fake_news_detection\project-main\WebAPI\obj\Debug\net5.0\scopedcss\bundle\WebAPI.styles.css
+D:\.NET\fake_news_detection\project-main\WebAPI\obj\Debug\net5.0\WebAPI.TagHelpers.input.cache
+D:\.NET\fake_news_detection\project-main\WebAPI\obj\Debug\net5.0\WebAPI.TagHelpers.output.cache
+D:\.NET\fake_news_detection\project-main\WebAPI\obj\Debug\net5.0\WebAPI.RazorCoreGenerate.cache
+D:\.NET\fake_news_detection\project-main\WebAPI\obj\Debug\net5.0\Razor\Models\Link.cshtml.g.cs
+D:\.NET\fake_news_detection\project-main\WebAPI\obj\Debug\net5.0\Razor\Pages\Account\Admin.cshtml.g.cs
+D:\.NET\fake_news_detection\project-main\WebAPI\obj\Debug\net5.0\Razor\Pages\Account\Login.cshtml.g.cs
+D:\.NET\fake_news_detection\project-main\WebAPI\obj\Debug\net5.0\Razor\Pages\Account\Logout.cshtml.g.cs
+D:\.NET\fake_news_detection\project-main\WebAPI\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+D:\.NET\fake_news_detection\project-main\WebAPI\obj\Debug\net5.0\Razor\Pages\Errors\AccessDenied.cshtml.g.cs
+D:\.NET\fake_news_detection\project-main\WebAPI\obj\Debug\net5.0\Razor\Pages\Errors\Error404.cshtml.g.cs
+D:\.NET\fake_news_detection\project-main\WebAPI\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+D:\.NET\fake_news_detection\project-main\WebAPI\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+D:\.NET\fake_news_detection\project-main\WebAPI\obj\Debug\net5.0\Razor\Pages\Result.cshtml.g.cs
+D:\.NET\fake_news_detection\project-main\WebAPI\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\.NET\fake_news_detection\project-main\WebAPI\obj\Debug\net5.0\Razor\Pages\Shared\_LoginStatusPartial.cshtml.g.cs
+D:\.NET\fake_news_detection\project-main\WebAPI\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\.NET\fake_news_detection\project-main\WebAPI\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\.NET\fake_news_detection\project-main\WebAPI\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\.NET\fake_news_detection\project-main\WebAPI\obj\Debug\net5.0\WebAPI.RazorTargetAssemblyInfo.cache
+D:\.NET\fake_news_detection\project-main\WebAPI\obj\Debug\net5.0\WebAPI.RazorTargetAssemblyInfo.cs
+D:\.NET\fake_news_detection\project-main\WebAPI\obj\Debug\net5.0\WebAPI.Views.pdb
+D:\.NET\fake_news_detection\project-main\WebAPI\obj\Debug\net5.0\WebAPI.csproj.CopyComplete
+D:\.NET\fake_news_detection\project-main\WebAPI\obj\Debug\net5.0\WebAPI.dll
+D:\.NET\fake_news_detection\project-main\WebAPI\obj\Debug\net5.0\ref\WebAPI.dll
+D:\.NET\fake_news_detection\project-main\WebAPI\obj\Debug\net5.0\WebAPI.pdb
+D:\.NET\fake_news_detection\project-main\WebAPI\obj\Debug\net5.0\WebAPI.genruntimeconfig.cache

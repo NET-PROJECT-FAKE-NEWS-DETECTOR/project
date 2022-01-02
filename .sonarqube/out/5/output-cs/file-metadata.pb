@@ -1,0 +1,16 @@
+\
+SD:\.NET\project-main\project-main\Infrastructure.Test\API\DataSetsControllerTest.csutf-8U
+LD:\.NET\project-main\project-main\Infrastructure.Test\DataBaseInitializer.csutf-8N
+ED:\.NET\project-main\project-main\Infrastructure.Test\DataBaseTest.csutf-8^
+UD:\.NET\project-main\project-main\Infrastructure.Test\Data\AdminAuthRepositoryTest.csutf-8\
+SD:\.NET\project-main\project-main\Infrastructure.Test\Data\DataSetRepositoryTest.csutf-8y
+pD:\.NET\project-main\project-main\Infrastructure.Test\Service\CommandsTests\CreateAdminAuthCommandHandlerTest.csutf-8w
+nD:\.NET\project-main\project-main\Infrastructure.Test\Service\CommandsTests\CreateDataSetCommandHandlerTest.csutf-8w
+nD:\.NET\project-main\project-main\Infrastructure.Test\Service\CommandsTests\DeleteDataSetCommandHandlerTest.csutf-8}
+tD:\.NET\project-main\project-main\Infrastructure.Test\Service\QueriesTests\GetAdminAuthByUsernameQueryHandlerTest.csutf-8w
+nD:\.NET\project-main\project-main\Infrastructure.Test\Service\QueriesTests\GetDataSetByTitleQueryHandleTest.csutf-8}
+tD:\.NET\project-main\project-main\Infrastructure.Test\Service\QueriesTests\GetDataSetbyValidationQueryHandlerTest.csutf-8q
+hD:\.NET\project-main\project-main\Infrastructure.Test\Service\QueriesTests\GetDataSetQueryHandlerTest.csutf-8}
+rC:\Users\claud\.nuget\packages\microsoft.net.test.sdk\16.9.4\build\netcoreapp2.1\Microsoft.NET.Test.Sdk.Program.csutf-8€
+uD:\.NET\project-main\project-main\Infrastructure.Test\obj\Debug\net5.0\.NETCoreApp,Version=v5.0.AssemblyAttributes.csutf-8r
+gD:\.NET\project-main\project-main\Infrastructure.Test\obj\Debug\net5.0\Persistence.Test.AssemblyInfo.csutf-8

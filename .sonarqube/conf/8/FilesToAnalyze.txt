@@ -1,0 +1,7 @@
+﻿D:\.NET\project-main\project-main\Persistence\Context\DataSetContext.cs
+D:\.NET\project-main\project-main\Persistence\Migrations\20211204165057_MyFirstMigration.cs
+D:\.NET\project-main\project-main\Persistence\Migrations\20211204165057_MyFirstMigration.Designer.cs
+D:\.NET\project-main\project-main\Persistence\Migrations\DataSetContextModelSnapshot.cs
+D:\.NET\project-main\project-main\Persistence\v1\AdminAuthRepository.cs
+D:\.NET\project-main\project-main\Persistence\v1\DataSetRepository.cs
+D:\.NET\project-main\project-main\Persistence\v1\Repository.cs

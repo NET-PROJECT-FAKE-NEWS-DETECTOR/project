@@ -1,0 +1,36 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Fake News Detection";
+}
+
+
+<div class="text-center">
+    <br />
+    <h1 class="display-3 m-4">Fake News Detection</h1>
+
+    <br />
+    <div class="m-5">
+        <h4>
+            Fake News Detection is our initiative to regain power over the information we believe in.
+            So, if you want to find if a piece of information is authentic, then you have come to the right place.
+            You just have to copy-paste the link to the news you want to verify and our algorithm will classify it as true/false
+        </h4>
+    </div>
+     <form method="post" role="form" class="m-5" action = "api/1.0/Truthfulness/TruthfulnessController" >
+        <div class="form-group ">
+            <input type="url" class="form-control p-5" id="flink" name="flink" placeholder="Link to News" asp-for="Link.URL">
+            <div class="d-flex justify-content-around m-2">
+                <button type="submit" class="btn btn-outline-light btn-lg" >Submit</button>
+            </div>
+        </div>
+    </form>
+    <div class="m-4">
+        <h5>
+            From the link provided, we will take the title of the news, the text, the subject of the piece of news and
+            the date when the news were published. If the link doesn't provide some of the information mentioned above,
+            the algorithm we use in order to clasify if the piece of news is fake or true, might have difficulties to output an answer
+        </h5>
+    </div>
+
+</div>

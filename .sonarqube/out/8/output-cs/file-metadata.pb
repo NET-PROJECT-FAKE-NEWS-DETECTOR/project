@@ -1,0 +1,10 @@
+P
+GD:\.NET\project-main\project-main\Persistence\Context\DataSetContext.csutf-8d
+[D:\.NET\project-main\project-main\Persistence\Migrations\20211204165057_MyFirstMigration.csutf-8o
+dD:\.NET\project-main\project-main\Persistence\Migrations\20211204165057_MyFirstMigration.Designer.csutf-8b
+WD:\.NET\project-main\project-main\Persistence\Migrations\DataSetContextModelSnapshot.csutf-8P
+GD:\.NET\project-main\project-main\Persistence\v1\AdminAuthRepository.csutf-8N
+ED:\.NET\project-main\project-main\Persistence\v1\DataSetRepository.csutf-8G
+>D:\.NET\project-main\project-main\Persistence\v1\Repository.csutf-8x
+mD:\.NET\project-main\project-main\Persistence\obj\Debug\net5.0\.NETCoreApp,Version=v5.0.AssemblyAttributes.csutf-8e
+ZD:\.NET\project-main\project-main\Persistence\obj\Debug\net5.0\Persistence.AssemblyInfo.csutf-8

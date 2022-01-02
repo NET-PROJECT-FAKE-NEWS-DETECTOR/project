@@ -1,0 +1,1 @@
+D:\.NET\project-main\project-main\.sonarqube\out\7

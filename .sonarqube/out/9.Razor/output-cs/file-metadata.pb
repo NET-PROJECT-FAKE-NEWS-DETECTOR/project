@@ -1,0 +1,13 @@
+b
+WD:\.NET\project-main\project-main\WebAPI\obj\Debug\net5.0\Razor\Models\Link.cshtml.g.csutf-8h
+]D:\.NET\project-main\project-main\WebAPI\obj\Debug\net5.0\Razor\Pages\Admin\Admin.cshtml.g.csutf-8h
+]D:\.NET\project-main\project-main\WebAPI\obj\Debug\net5.0\Razor\Pages\Admin\LogIn.cshtml.g.csutf-8b
+WD:\.NET\project-main\project-main\WebAPI\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.csutf-8b
+WD:\.NET\project-main\project-main\WebAPI\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.csutf-8d
+YD:\.NET\project-main\project-main\WebAPI\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.csutf-8c
+XD:\.NET\project-main\project-main\WebAPI\obj\Debug\net5.0\Razor\Pages\Result.cshtml.g.csutf-8k
+`D:\.NET\project-main\project-main\WebAPI\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.csutf-8}
+rD:\.NET\project-main\project-main\WebAPI\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.csutf-8i
+^D:\.NET\project-main\project-main\WebAPI\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.csutf-8g
+\D:\.NET\project-main\project-main\WebAPI\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.csutf-8f
+[D:\.NET\project-main\project-main\WebAPI\obj\Debug\net5.0\WebAPI.RazorTargetAssemblyInfo.csutf-8

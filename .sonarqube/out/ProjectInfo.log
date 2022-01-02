@@ -1,0 +1,29 @@
+Product projects
+---------------------------------------
+
+
+Test projects
+---------------------------------------
+D:\.NET\project-main\project-main\Domain\Domain.csproj
+D:\.NET\project-main\project-main\Application\Application.csproj
+D:\.NET\project-main\project-main\ApplicationTest\ApplicationTest.csproj
+D:\.NET\project-main\project-main\Infrastructure.Test\Persistence.Test.csproj
+D:\.NET\project-main\project-main\Persistence\Persistence.csproj
+D:\.NET\project-main\project-main\WebAPI\WebAPI.csproj
+
+
+Invalid projects
+---------------------------------------
+{none}
+
+
+Skipped projects
+---------------------------------------
+{none}
+
+
+Excluded projects
+---------------------------------------
+{none}
+
+

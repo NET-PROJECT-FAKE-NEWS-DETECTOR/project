@@ -1,0 +1,9 @@
+﻿D:\.NET\project-main\project-main\ApplicationTest\Features\Commands\CreateAdminAuthTest.cs
+C:\Users\claud\.nuget\packages\microsoft.net.test.sdk\16.9.4\build\netcoreapp2.1\Microsoft.NET.Test.Sdk.Program.cs
+C:\Users\claud\.nuget\packages\microsoft.testplatform.testhost\16.9.4\build\netcoreapp2.1\x64\testhost.exe
+C:\Users\claud\.nuget\packages\microsoft.testplatform.testhost\16.9.4\build\netcoreapp2.1\x64\testhost.dll
+C:\Users\claud\.nuget\packages\microsoft.testplatform.testhost\16.9.4\build\netcoreapp2.1\x64\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\claud\.nuget\packages\mstest.testadapter\2.2.3\build\_common\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\claud\.nuget\packages\mstest.testadapter\2.2.3\build\_common\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\claud\.nuget\packages\mstest.testadapter\2.2.3\build\netcoreapp1.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\claud\.nuget\packages\mstest.testadapter\2.2.3\build\netcoreapp1.0\Microsoft.TestPlatform.AdapterUtilities.dll

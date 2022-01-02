@@ -1,0 +1,177 @@
+d:\Facultate\.NET\Proiect\Fake_News_Detection\Persistence\bin\Debug\net5.0\Persistence.deps.json
+d:\Facultate\.NET\Proiect\Fake_News_Detection\Persistence\bin\Debug\net5.0\Persistence.dll
+d:\Facultate\.NET\Proiect\Fake_News_Detection\Persistence\bin\Debug\net5.0\ref\Persistence.dll
+d:\Facultate\.NET\Proiect\Fake_News_Detection\Persistence\bin\Debug\net5.0\Persistence.pdb
+d:\Facultate\.NET\Proiect\Fake_News_Detection\Persistence\bin\Debug\net5.0\Application.dll
+d:\Facultate\.NET\Proiect\Fake_News_Detection\Persistence\bin\Debug\net5.0\Domain.dll
+d:\Facultate\.NET\Proiect\Fake_News_Detection\Persistence\bin\Debug\net5.0\Application.pdb
+d:\Facultate\.NET\Proiect\Fake_News_Detection\Persistence\bin\Debug\net5.0\Domain.pdb
+d:\Facultate\.NET\Proiect\Fake_News_Detection\Persistence\obj\Debug\net5.0\Persistence.csproj.AssemblyReference.cache
+d:\Facultate\.NET\Proiect\Fake_News_Detection\Persistence\obj\Debug\net5.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+d:\Facultate\.NET\Proiect\Fake_News_Detection\Persistence\obj\Debug\net5.0\Persistence.AssemblyInfoInputs.cache
+d:\Facultate\.NET\Proiect\Fake_News_Detection\Persistence\obj\Debug\net5.0\Persistence.AssemblyInfo.cs
+d:\Facultate\.NET\Proiect\Fake_News_Detection\Persistence\obj\Debug\net5.0\Persistence.csproj.CoreCompileInputs.cache
+d:\Facultate\.NET\Proiect\Fake_News_Detection\Persistence\obj\Debug\net5.0\Persistence.csproj.CopyComplete
+d:\Facultate\.NET\Proiect\Fake_News_Detection\Persistence\obj\Debug\net5.0\Persistence.dll
+d:\Facultate\.NET\Proiect\Fake_News_Detection\Persistence\obj\Debug\net5.0\ref\Persistence.dll
+d:\Facultate\.NET\Proiect\Fake_News_Detection\Persistence\obj\Debug\net5.0\Persistence.pdb
+D:\.NET\Fake_News_Detection\Persistence\bin\Debug\net5.0\Persistence.deps.json
+D:\.NET\Fake_News_Detection\Persistence\bin\Debug\net5.0\Persistence.runtimeconfig.json
+D:\.NET\Fake_News_Detection\Persistence\bin\Debug\net5.0\Persistence.runtimeconfig.dev.json
+D:\.NET\Fake_News_Detection\Persistence\bin\Debug\net5.0\Persistence.dll
+D:\.NET\Fake_News_Detection\Persistence\bin\Debug\net5.0\ref\Persistence.dll
+D:\.NET\Fake_News_Detection\Persistence\bin\Debug\net5.0\Persistence.pdb
+D:\.NET\Fake_News_Detection\Persistence\bin\Debug\net5.0\Application.dll
+D:\.NET\Fake_News_Detection\Persistence\bin\Debug\net5.0\Domain.dll
+D:\.NET\Fake_News_Detection\Persistence\bin\Debug\net5.0\Application.pdb
+D:\.NET\Fake_News_Detection\Persistence\bin\Debug\net5.0\Domain.pdb
+D:\.NET\Fake_News_Detection\Persistence\obj\Debug\net5.0\Persistence.csproj.AssemblyReference.cache
+D:\.NET\Fake_News_Detection\Persistence\obj\Debug\net5.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\Fake_News_Detection\Persistence\obj\Debug\net5.0\Persistence.AssemblyInfoInputs.cache
+D:\.NET\Fake_News_Detection\Persistence\obj\Debug\net5.0\Persistence.AssemblyInfo.cs
+D:\.NET\Fake_News_Detection\Persistence\obj\Debug\net5.0\Persistence.csproj.CoreCompileInputs.cache
+D:\.NET\Fake_News_Detection\Persistence\obj\Debug\net5.0\Persistence.csproj.CopyComplete
+D:\.NET\Fake_News_Detection\Persistence\obj\Debug\net5.0\Persistence.dll
+D:\.NET\Fake_News_Detection\Persistence\obj\Debug\net5.0\ref\Persistence.dll
+D:\.NET\Fake_News_Detection\Persistence\obj\Debug\net5.0\Persistence.pdb
+D:\.NET\Fake_News_Detection\Persistence\obj\Debug\net5.0\Persistence.genruntimeconfig.cache
+D:\repos\project\Persistence\bin\Debug\net5.0\Persistence.deps.json
+D:\repos\project\Persistence\bin\Debug\net5.0\Persistence.runtimeconfig.json
+D:\repos\project\Persistence\bin\Debug\net5.0\Persistence.runtimeconfig.dev.json
+D:\repos\project\Persistence\bin\Debug\net5.0\Persistence.dll
+D:\repos\project\Persistence\bin\Debug\net5.0\ref\Persistence.dll
+D:\repos\project\Persistence\bin\Debug\net5.0\Persistence.pdb
+D:\repos\project\Persistence\bin\Debug\net5.0\Application.dll
+D:\repos\project\Persistence\bin\Debug\net5.0\Domain.dll
+D:\repos\project\Persistence\bin\Debug\net5.0\Application.pdb
+D:\repos\project\Persistence\bin\Debug\net5.0\Domain.pdb
+D:\repos\project\Persistence\obj\Debug\net5.0\Persistence.csproj.AssemblyReference.cache
+D:\repos\project\Persistence\obj\Debug\net5.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\project\Persistence\obj\Debug\net5.0\Persistence.AssemblyInfoInputs.cache
+D:\repos\project\Persistence\obj\Debug\net5.0\Persistence.AssemblyInfo.cs
+D:\repos\project\Persistence\obj\Debug\net5.0\Persistence.csproj.CoreCompileInputs.cache
+D:\repos\project\Persistence\obj\Debug\net5.0\Persistence.csproj.CopyComplete
+D:\repos\project\Persistence\obj\Debug\net5.0\Persistence.dll
+D:\repos\project\Persistence\obj\Debug\net5.0\ref\Persistence.dll
+D:\repos\project\Persistence\obj\Debug\net5.0\Persistence.pdb
+D:\repos\project\Persistence\obj\Debug\net5.0\Persistence.genruntimeconfig.cache
+C:\Users\claud\Desktop\project-main\Persistence\bin\Debug\net5.0\Persistence.deps.json
+C:\Users\claud\Desktop\project-main\Persistence\bin\Debug\net5.0\Persistence.runtimeconfig.json
+C:\Users\claud\Desktop\project-main\Persistence\bin\Debug\net5.0\Persistence.runtimeconfig.dev.json
+C:\Users\claud\Desktop\project-main\Persistence\bin\Debug\net5.0\Persistence.dll
+C:\Users\claud\Desktop\project-main\Persistence\bin\Debug\net5.0\ref\Persistence.dll
+C:\Users\claud\Desktop\project-main\Persistence\bin\Debug\net5.0\Persistence.pdb
+C:\Users\claud\Desktop\project-main\Persistence\bin\Debug\net5.0\Application.dll
+C:\Users\claud\Desktop\project-main\Persistence\bin\Debug\net5.0\Domain.dll
+C:\Users\claud\Desktop\project-main\Persistence\bin\Debug\net5.0\Application.pdb
+C:\Users\claud\Desktop\project-main\Persistence\bin\Debug\net5.0\Domain.pdb
+C:\Users\claud\Desktop\project-main\Persistence\obj\Debug\net5.0\Persistence.csproj.AssemblyReference.cache
+C:\Users\claud\Desktop\project-main\Persistence\obj\Debug\net5.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\claud\Desktop\project-main\Persistence\obj\Debug\net5.0\Persistence.AssemblyInfoInputs.cache
+C:\Users\claud\Desktop\project-main\Persistence\obj\Debug\net5.0\Persistence.AssemblyInfo.cs
+C:\Users\claud\Desktop\project-main\Persistence\obj\Debug\net5.0\Persistence.csproj.CoreCompileInputs.cache
+C:\Users\claud\Desktop\project-main\Persistence\obj\Debug\net5.0\Persistence.csproj.CopyComplete
+C:\Users\claud\Desktop\project-main\Persistence\obj\Debug\net5.0\Persistence.dll
+C:\Users\claud\Desktop\project-main\Persistence\obj\Debug\net5.0\ref\Persistence.dll
+C:\Users\claud\Desktop\project-main\Persistence\obj\Debug\net5.0\Persistence.pdb
+C:\Users\claud\Desktop\project-main\Persistence\obj\Debug\net5.0\Persistence.genruntimeconfig.cache
+D:\.NET\project-main\project-main\Persistence\bin\Debug\net5.0\Persistence.deps.json
+D:\.NET\project-main\project-main\Persistence\bin\Debug\net5.0\Persistence.runtimeconfig.json
+D:\.NET\project-main\project-main\Persistence\bin\Debug\net5.0\Persistence.runtimeconfig.dev.json
+D:\.NET\project-main\project-main\Persistence\bin\Debug\net5.0\Persistence.dll
+D:\.NET\project-main\project-main\Persistence\bin\Debug\net5.0\ref\Persistence.dll
+D:\.NET\project-main\project-main\Persistence\bin\Debug\net5.0\Persistence.pdb
+D:\.NET\project-main\project-main\Persistence\bin\Debug\net5.0\Application.dll
+D:\.NET\project-main\project-main\Persistence\bin\Debug\net5.0\Domain.dll
+D:\.NET\project-main\project-main\Persistence\bin\Debug\net5.0\Application.pdb
+D:\.NET\project-main\project-main\Persistence\bin\Debug\net5.0\Domain.pdb
+D:\.NET\project-main\project-main\Persistence\obj\Debug\net5.0\Persistence.csproj.AssemblyReference.cache
+D:\.NET\project-main\project-main\Persistence\obj\Debug\net5.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\project-main\project-main\Persistence\obj\Debug\net5.0\Persistence.AssemblyInfoInputs.cache
+D:\.NET\project-main\project-main\Persistence\obj\Debug\net5.0\Persistence.AssemblyInfo.cs
+D:\.NET\project-main\project-main\Persistence\obj\Debug\net5.0\Persistence.csproj.CoreCompileInputs.cache
+D:\.NET\project-main\project-main\Persistence\obj\Debug\net5.0\Persistence.csproj.CopyComplete
+D:\.NET\project-main\project-main\Persistence\obj\Debug\net5.0\Persistence.dll
+D:\.NET\project-main\project-main\Persistence\obj\Debug\net5.0\ref\Persistence.dll
+D:\.NET\project-main\project-main\Persistence\obj\Debug\net5.0\Persistence.pdb
+D:\.NET\project-main\project-main\Persistence\obj\Debug\net5.0\Persistence.genruntimeconfig.cache
+C:\Users\40757\Desktop\ANUL 3\.NET\project\Persistence\bin\Debug\net5.0\Persistence.deps.json
+C:\Users\40757\Desktop\ANUL 3\.NET\project\Persistence\bin\Debug\net5.0\Persistence.runtimeconfig.json
+C:\Users\40757\Desktop\ANUL 3\.NET\project\Persistence\bin\Debug\net5.0\Persistence.runtimeconfig.dev.json
+C:\Users\40757\Desktop\ANUL 3\.NET\project\Persistence\bin\Debug\net5.0\Persistence.dll
+C:\Users\40757\Desktop\ANUL 3\.NET\project\Persistence\bin\Debug\net5.0\ref\Persistence.dll
+C:\Users\40757\Desktop\ANUL 3\.NET\project\Persistence\bin\Debug\net5.0\Persistence.pdb
+C:\Users\40757\Desktop\ANUL 3\.NET\project\Persistence\bin\Debug\net5.0\Application.dll
+C:\Users\40757\Desktop\ANUL 3\.NET\project\Persistence\bin\Debug\net5.0\Domain.dll
+C:\Users\40757\Desktop\ANUL 3\.NET\project\Persistence\bin\Debug\net5.0\Application.pdb
+C:\Users\40757\Desktop\ANUL 3\.NET\project\Persistence\bin\Debug\net5.0\Domain.pdb
+C:\Users\40757\Desktop\ANUL 3\.NET\project\Persistence\obj\Debug\net5.0\Persistence.csproj.AssemblyReference.cache
+C:\Users\40757\Desktop\ANUL 3\.NET\project\Persistence\obj\Debug\net5.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\40757\Desktop\ANUL 3\.NET\project\Persistence\obj\Debug\net5.0\Persistence.AssemblyInfoInputs.cache
+C:\Users\40757\Desktop\ANUL 3\.NET\project\Persistence\obj\Debug\net5.0\Persistence.AssemblyInfo.cs
+C:\Users\40757\Desktop\ANUL 3\.NET\project\Persistence\obj\Debug\net5.0\Persistence.csproj.CoreCompileInputs.cache
+C:\Users\40757\Desktop\ANUL 3\.NET\project\Persistence\obj\Debug\net5.0\Persistence.csproj.CopyComplete
+C:\Users\40757\Desktop\ANUL 3\.NET\project\Persistence\obj\Debug\net5.0\Persistence.dll
+C:\Users\40757\Desktop\ANUL 3\.NET\project\Persistence\obj\Debug\net5.0\ref\Persistence.dll
+C:\Users\40757\Desktop\ANUL 3\.NET\project\Persistence\obj\Debug\net5.0\Persistence.pdb
+C:\Users\40757\Desktop\ANUL 3\.NET\project\Persistence\obj\Debug\net5.0\Persistence.genruntimeconfig.cache
+d:\Facultate\.NET\Proiect_Git\project\Persistence\bin\Debug\net5.0\Persistence.deps.json
+d:\Facultate\.NET\Proiect_Git\project\Persistence\bin\Debug\net5.0\Persistence.runtimeconfig.json
+d:\Facultate\.NET\Proiect_Git\project\Persistence\bin\Debug\net5.0\Persistence.runtimeconfig.dev.json
+d:\Facultate\.NET\Proiect_Git\project\Persistence\bin\Debug\net5.0\Persistence.dll
+d:\Facultate\.NET\Proiect_Git\project\Persistence\bin\Debug\net5.0\ref\Persistence.dll
+d:\Facultate\.NET\Proiect_Git\project\Persistence\bin\Debug\net5.0\Persistence.pdb
+d:\Facultate\.NET\Proiect_Git\project\Persistence\bin\Debug\net5.0\Application.dll
+d:\Facultate\.NET\Proiect_Git\project\Persistence\bin\Debug\net5.0\Domain.dll
+d:\Facultate\.NET\Proiect_Git\project\Persistence\bin\Debug\net5.0\Application.pdb
+d:\Facultate\.NET\Proiect_Git\project\Persistence\bin\Debug\net5.0\Domain.pdb
+d:\Facultate\.NET\Proiect_Git\project\Persistence\obj\Debug\net5.0\Persistence.csproj.AssemblyReference.cache
+d:\Facultate\.NET\Proiect_Git\project\Persistence\obj\Debug\net5.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+d:\Facultate\.NET\Proiect_Git\project\Persistence\obj\Debug\net5.0\Persistence.AssemblyInfoInputs.cache
+d:\Facultate\.NET\Proiect_Git\project\Persistence\obj\Debug\net5.0\Persistence.AssemblyInfo.cs
+d:\Facultate\.NET\Proiect_Git\project\Persistence\obj\Debug\net5.0\Persistence.csproj.CoreCompileInputs.cache
+d:\Facultate\.NET\Proiect_Git\project\Persistence\obj\Debug\net5.0\Persistence.csproj.CopyComplete
+d:\Facultate\.NET\Proiect_Git\project\Persistence\obj\Debug\net5.0\Persistence.dll
+d:\Facultate\.NET\Proiect_Git\project\Persistence\obj\Debug\net5.0\ref\Persistence.dll
+d:\Facultate\.NET\Proiect_Git\project\Persistence\obj\Debug\net5.0\Persistence.pdb
+d:\Facultate\.NET\Proiect_Git\project\Persistence\obj\Debug\net5.0\Persistence.genruntimeconfig.cache
+D:\faculty\dot-net\nou proj\project\Persistence\bin\Debug\net5.0\Persistence.deps.json
+D:\faculty\dot-net\nou proj\project\Persistence\bin\Debug\net5.0\Persistence.runtimeconfig.json
+D:\faculty\dot-net\nou proj\project\Persistence\bin\Debug\net5.0\Persistence.runtimeconfig.dev.json
+D:\faculty\dot-net\nou proj\project\Persistence\bin\Debug\net5.0\Persistence.dll
+D:\faculty\dot-net\nou proj\project\Persistence\bin\Debug\net5.0\ref\Persistence.dll
+D:\faculty\dot-net\nou proj\project\Persistence\bin\Debug\net5.0\Persistence.pdb
+D:\faculty\dot-net\nou proj\project\Persistence\bin\Debug\net5.0\Application.dll
+D:\faculty\dot-net\nou proj\project\Persistence\bin\Debug\net5.0\Domain.dll
+D:\faculty\dot-net\nou proj\project\Persistence\bin\Debug\net5.0\Application.pdb
+D:\faculty\dot-net\nou proj\project\Persistence\bin\Debug\net5.0\Domain.pdb
+D:\faculty\dot-net\nou proj\project\Persistence\obj\Debug\net5.0\Persistence.csproj.AssemblyReference.cache
+D:\faculty\dot-net\nou proj\project\Persistence\obj\Debug\net5.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\faculty\dot-net\nou proj\project\Persistence\obj\Debug\net5.0\Persistence.AssemblyInfoInputs.cache
+D:\faculty\dot-net\nou proj\project\Persistence\obj\Debug\net5.0\Persistence.AssemblyInfo.cs
+D:\faculty\dot-net\nou proj\project\Persistence\obj\Debug\net5.0\Persistence.csproj.CoreCompileInputs.cache
+D:\faculty\dot-net\nou proj\project\Persistence\obj\Debug\net5.0\Persistence.csproj.CopyComplete
+D:\faculty\dot-net\nou proj\project\Persistence\obj\Debug\net5.0\Persistence.dll
+D:\faculty\dot-net\nou proj\project\Persistence\obj\Debug\net5.0\ref\Persistence.dll
+D:\faculty\dot-net\nou proj\project\Persistence\obj\Debug\net5.0\Persistence.pdb
+D:\faculty\dot-net\nou proj\project\Persistence\obj\Debug\net5.0\Persistence.genruntimeconfig.cache
+D:\.NET\fake_news_detection\project-main\Persistence\bin\Debug\net5.0\Persistence.deps.json
+D:\.NET\fake_news_detection\project-main\Persistence\bin\Debug\net5.0\Persistence.runtimeconfig.json
+D:\.NET\fake_news_detection\project-main\Persistence\bin\Debug\net5.0\Persistence.runtimeconfig.dev.json
+D:\.NET\fake_news_detection\project-main\Persistence\bin\Debug\net5.0\Persistence.dll
+D:\.NET\fake_news_detection\project-main\Persistence\bin\Debug\net5.0\ref\Persistence.dll
+D:\.NET\fake_news_detection\project-main\Persistence\bin\Debug\net5.0\Persistence.pdb
+D:\.NET\fake_news_detection\project-main\Persistence\bin\Debug\net5.0\Application.dll
+D:\.NET\fake_news_detection\project-main\Persistence\bin\Debug\net5.0\Domain.dll
+D:\.NET\fake_news_detection\project-main\Persistence\bin\Debug\net5.0\Application.pdb
+D:\.NET\fake_news_detection\project-main\Persistence\bin\Debug\net5.0\Domain.pdb
+D:\.NET\fake_news_detection\project-main\Persistence\obj\Debug\net5.0\Persistence.csproj.AssemblyReference.cache
+D:\.NET\fake_news_detection\project-main\Persistence\obj\Debug\net5.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\fake_news_detection\project-main\Persistence\obj\Debug\net5.0\Persistence.AssemblyInfoInputs.cache
+D:\.NET\fake_news_detection\project-main\Persistence\obj\Debug\net5.0\Persistence.AssemblyInfo.cs
+D:\.NET\fake_news_detection\project-main\Persistence\obj\Debug\net5.0\Persistence.csproj.CoreCompileInputs.cache
+D:\.NET\fake_news_detection\project-main\Persistence\obj\Debug\net5.0\Persistence.csproj.CopyComplete
+D:\.NET\fake_news_detection\project-main\Persistence\obj\Debug\net5.0\Persistence.dll
+D:\.NET\fake_news_detection\project-main\Persistence\obj\Debug\net5.0\ref\Persistence.dll
+D:\.NET\fake_news_detection\project-main\Persistence\obj\Debug\net5.0\Persistence.pdb
+D:\.NET\fake_news_detection\project-main\Persistence\obj\Debug\net5.0\Persistence.genruntimeconfig.cache

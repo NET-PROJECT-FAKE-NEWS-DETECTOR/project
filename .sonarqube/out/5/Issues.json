@@ -1,0 +1,298 @@
+{
+  "$schema": "http://json.schemastore.org/sarif-1.0.0",
+  "version": "1.0.0",
+  "runs": [
+    {
+      "tool": {
+        "name": "Microsoft (R) Visual C# Compiler",
+        "version": "3.11.0.0",
+        "fileVersion": "3.11.0-4.21403.6 (ae1fff34)",
+        "semanticVersion": "3.11.0",
+        "language": "en-US"
+      },
+      "results": [
+        {
+          "ruleId": "CA1816",
+          "level": "note",
+          "message": "Change DataBaseTest.Dispose() to call GC.SuppressFinalize(object). This will prevent derived types that introduce a finalizer from needing to re-implement 'IDisposable' to call it.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/.NET/project-main/project-main/Infrastructure.Test/DataBaseTest.cs",
+                "region": {
+                  "startLine": 21,
+                  "startColumn": 21,
+                  "endLine": 21,
+                  "endColumn": 28
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3433",
+          "level": "warning",
+          "message": "Make this test method non-'async' or return 'Task'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/.NET/project-main/project-main/Infrastructure.Test/Data/DataSetRepositoryTest.cs",
+                "region": {
+                  "startLine": 28,
+                  "startColumn": 27,
+                  "endLine": 28,
+                  "endColumn": 102
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3433",
+          "level": "warning",
+          "message": "Make this test method non-'async' or return 'Task'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/.NET/project-main/project-main/Infrastructure.Test/Data/AdminAuthRepositoryTest.cs",
+                "region": {
+                  "startLine": 30,
+                  "startColumn": 27,
+                  "endLine": 30,
+                  "endColumn": 96
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3433",
+          "level": "warning",
+          "message": "Make this test method non-'async' or return 'Task'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/.NET/project-main/project-main/Infrastructure.Test/API/DataSetsControllerTest.cs",
+                "region": {
+                  "startLine": 21,
+                  "startColumn": 27,
+                  "endLine": 21,
+                  "endColumn": 104
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3433",
+          "level": "warning",
+          "message": "Make this test method non-'async' or return 'Task'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/.NET/project-main/project-main/Infrastructure.Test/Service/QueriesTests/GetAdminAuthByUsernameQueryHandlerTest.cs",
+                "region": {
+                  "startLine": 25,
+                  "startColumn": 27,
+                  "endLine": 25,
+                  "endColumn": 107
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3433",
+          "level": "warning",
+          "message": "Make this test method non-'async' or return 'Task'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/.NET/project-main/project-main/Infrastructure.Test/Service/CommandsTests/DeleteDataSetCommandHandlerTest.cs",
+                "region": {
+                  "startLine": 24,
+                  "startColumn": 27,
+                  "endLine": 24,
+                  "endColumn": 104
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2699",
+          "level": "warning",
+          "message": "Add at least one assertion to this test case.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/.NET/project-main/project-main/Infrastructure.Test/Service/QueriesTests/GetDataSetQueryHandlerTest.cs",
+                "region": {
+                  "startLine": 25,
+                  "startColumn": 31,
+                  "endLine": 25,
+                  "endColumn": 97
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3433",
+          "level": "warning",
+          "message": "Make this test method non-'async' or return 'Task'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/.NET/project-main/project-main/Infrastructure.Test/Service/QueriesTests/GetDataSetQueryHandlerTest.cs",
+                "region": {
+                  "startLine": 25,
+                  "startColumn": 31,
+                  "endLine": 25,
+                  "endColumn": 97
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3433",
+          "level": "warning",
+          "message": "Make this test method non-'async' or return 'Task'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/.NET/project-main/project-main/Infrastructure.Test/Service/QueriesTests/GetDataSetByTitleQueryHandleTest.cs",
+                "region": {
+                  "startLine": 25,
+                  "startColumn": 27,
+                  "endLine": 25,
+                  "endColumn": 100
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2699",
+          "level": "warning",
+          "message": "Add at least one assertion to this test case.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/.NET/project-main/project-main/Infrastructure.Test/Service/QueriesTests/GetDataSetbyValidationQueryHandlerTest.cs",
+                "region": {
+                  "startLine": 27,
+                  "startColumn": 27,
+                  "endLine": 27,
+                  "endColumn": 105
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3433",
+          "level": "warning",
+          "message": "Make this test method non-'async' or return 'Task'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/.NET/project-main/project-main/Infrastructure.Test/Service/QueriesTests/GetDataSetbyValidationQueryHandlerTest.cs",
+                "region": {
+                  "startLine": 27,
+                  "startColumn": 27,
+                  "endLine": 27,
+                  "endColumn": 105
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        }
+      ],
+      "rules": {
+        "CA1816": {
+          "id": "CA1816",
+          "shortDescription": "Dispose methods should call SuppressFinalize",
+          "fullDescription": "A method that is an implementation of Dispose does not call GC.SuppressFinalize; or a method that is not an implementation of Dispose calls GC.SuppressFinalize; or a method calls GC.SuppressFinalize and passes something other than this (Me in Visual?Basic).",
+          "defaultLevel": "note",
+          "helpUri": "https://docs.microsoft.com/dotnet/fundamentals/code-analysis/quality-rules/ca1816",
+          "properties": {
+            "category": "Usage",
+            "isEnabledByDefault": true,
+            "tags": [
+              "PortedFromFxCop",
+              "Telemetry",
+              "EnabledRuleInAggressiveMode"
+            ]
+          }
+        },
+        "S2699": {
+          "id": "S2699",
+          "shortDescription": "Tests should include assertions",
+          "fullDescription": "A test case without assertions ensures only that no exceptions are thrown. Beyond basic runnability, it ensures nothing about the behavior of the code under test.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-2699",
+          "properties": {
+            "category": "Blocker Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "TestSourceScope"
+            ]
+          }
+        },
+        "S3433": {
+          "id": "S3433",
+          "shortDescription": "Test method signatures should be correct",
+          "fullDescription": "A method is detected as test method if marked with one of the following attributes [TestMethod] or [DataTestMethod] (for mstest), [Fact] or [Theory] (for xunit) or [Test], [TestCase], [TestCaseSource] or [Theory] (for nunit). However, whether or not they have a test attribute, non-public methods are not recognized as tests, and therefore not executed. Neither are async void methods, or methods with generics anywhere in their signatures.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-3433",
+          "properties": {
+            "category": "Blocker Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "TestSourceScope"
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+﻿@page
+@model WebAPI.Pages.AdminModel
+@{
+    ViewData["Title"] = "Admin Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Current Data</h1>
+
+    <label>
+        Choose what kind of news you need (TRUE/FALSE):
+        <select id="select_data_news" class="form-select form-select-lg mb-3">
+            <option value="All">All</option>
+            <option value="True">True</option>
+            <option value="False">False</option>
+        </select>
+    </label>
+
+
+    <div id="dataset_table">
+
+        <table class="table">
+            <thead>
+                <tr>
+                    <th scope="col">Title</th>
+                    <th scope="col">Text</th>
+                    <th scope="col">Subject</th>
+                    <th scope="col">Date</th>
+                    <th scope="col">True/False</th>
+                </tr>
+            </thead>
+            <tbody id="dataTable">
+            </tbody>
+        </table>
+
+        <script src="~/js/site.js" asp-append-version="true"></script>
+        <script src="~/lib/jquery/dist/jquery.js"></script>
+        <script type="text/javascript">
+            getDataSet();
+        </script>
+
+        <ul id="ulDataSet"></ul>
+
+    </div>
+</div>

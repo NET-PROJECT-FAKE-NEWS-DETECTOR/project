@@ -1,0 +1,132 @@
+d:\Facultate\.NET\Proiect\Fake_News_Detection\Domain\bin\Debug\net5.0\Domain.deps.json
+d:\Facultate\.NET\Proiect\Fake_News_Detection\Domain\bin\Debug\net5.0\Domain.dll
+d:\Facultate\.NET\Proiect\Fake_News_Detection\Domain\bin\Debug\net5.0\ref\Domain.dll
+d:\Facultate\.NET\Proiect\Fake_News_Detection\Domain\bin\Debug\net5.0\Domain.pdb
+d:\Facultate\.NET\Proiect\Fake_News_Detection\Domain\obj\Debug\net5.0\Domain.csproj.AssemblyReference.cache
+d:\Facultate\.NET\Proiect\Fake_News_Detection\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+d:\Facultate\.NET\Proiect\Fake_News_Detection\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+d:\Facultate\.NET\Proiect\Fake_News_Detection\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+d:\Facultate\.NET\Proiect\Fake_News_Detection\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+d:\Facultate\.NET\Proiect\Fake_News_Detection\Domain\obj\Debug\net5.0\Domain.dll
+d:\Facultate\.NET\Proiect\Fake_News_Detection\Domain\obj\Debug\net5.0\ref\Domain.dll
+d:\Facultate\.NET\Proiect\Fake_News_Detection\Domain\obj\Debug\net5.0\Domain.pdb
+D:\.NET\Fake_News_Detection\Domain\bin\Debug\net5.0\Domain.deps.json
+D:\.NET\Fake_News_Detection\Domain\bin\Debug\net5.0\Domain.runtimeconfig.json
+D:\.NET\Fake_News_Detection\Domain\bin\Debug\net5.0\Domain.runtimeconfig.dev.json
+D:\.NET\Fake_News_Detection\Domain\bin\Debug\net5.0\Domain.dll
+D:\.NET\Fake_News_Detection\Domain\bin\Debug\net5.0\ref\Domain.dll
+D:\.NET\Fake_News_Detection\Domain\bin\Debug\net5.0\Domain.pdb
+D:\.NET\Fake_News_Detection\Domain\obj\Debug\net5.0\Domain.csproj.AssemblyReference.cache
+D:\.NET\Fake_News_Detection\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\Fake_News_Detection\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+D:\.NET\Fake_News_Detection\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+D:\.NET\Fake_News_Detection\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+D:\.NET\Fake_News_Detection\Domain\obj\Debug\net5.0\Domain.dll
+D:\.NET\Fake_News_Detection\Domain\obj\Debug\net5.0\ref\Domain.dll
+D:\.NET\Fake_News_Detection\Domain\obj\Debug\net5.0\Domain.pdb
+D:\.NET\Fake_News_Detection\Domain\obj\Debug\net5.0\Domain.genruntimeconfig.cache
+D:\repos\project\Domain\bin\Debug\net5.0\Domain.deps.json
+D:\repos\project\Domain\bin\Debug\net5.0\Domain.runtimeconfig.json
+D:\repos\project\Domain\bin\Debug\net5.0\Domain.runtimeconfig.dev.json
+D:\repos\project\Domain\bin\Debug\net5.0\Domain.dll
+D:\repos\project\Domain\bin\Debug\net5.0\ref\Domain.dll
+D:\repos\project\Domain\bin\Debug\net5.0\Domain.pdb
+D:\repos\project\Domain\obj\Debug\net5.0\Domain.csproj.AssemblyReference.cache
+D:\repos\project\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\project\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+D:\repos\project\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+D:\repos\project\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+D:\repos\project\Domain\obj\Debug\net5.0\Domain.dll
+D:\repos\project\Domain\obj\Debug\net5.0\ref\Domain.dll
+D:\repos\project\Domain\obj\Debug\net5.0\Domain.pdb
+D:\repos\project\Domain\obj\Debug\net5.0\Domain.genruntimeconfig.cache
+C:\Users\claud\Desktop\project-main\Domain\bin\Debug\net5.0\Domain.deps.json
+C:\Users\claud\Desktop\project-main\Domain\bin\Debug\net5.0\Domain.runtimeconfig.json
+C:\Users\claud\Desktop\project-main\Domain\bin\Debug\net5.0\Domain.runtimeconfig.dev.json
+C:\Users\claud\Desktop\project-main\Domain\bin\Debug\net5.0\Domain.dll
+C:\Users\claud\Desktop\project-main\Domain\bin\Debug\net5.0\ref\Domain.dll
+C:\Users\claud\Desktop\project-main\Domain\bin\Debug\net5.0\Domain.pdb
+C:\Users\claud\Desktop\project-main\Domain\obj\Debug\net5.0\Domain.csproj.AssemblyReference.cache
+C:\Users\claud\Desktop\project-main\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\claud\Desktop\project-main\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+C:\Users\claud\Desktop\project-main\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+C:\Users\claud\Desktop\project-main\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\claud\Desktop\project-main\Domain\obj\Debug\net5.0\Domain.dll
+C:\Users\claud\Desktop\project-main\Domain\obj\Debug\net5.0\ref\Domain.dll
+C:\Users\claud\Desktop\project-main\Domain\obj\Debug\net5.0\Domain.pdb
+C:\Users\claud\Desktop\project-main\Domain\obj\Debug\net5.0\Domain.genruntimeconfig.cache
+D:\.NET\project-main\project-main\Domain\bin\Debug\net5.0\Domain.deps.json
+D:\.NET\project-main\project-main\Domain\bin\Debug\net5.0\Domain.runtimeconfig.json
+D:\.NET\project-main\project-main\Domain\bin\Debug\net5.0\Domain.runtimeconfig.dev.json
+D:\.NET\project-main\project-main\Domain\bin\Debug\net5.0\Domain.dll
+D:\.NET\project-main\project-main\Domain\bin\Debug\net5.0\ref\Domain.dll
+D:\.NET\project-main\project-main\Domain\bin\Debug\net5.0\Domain.pdb
+D:\.NET\project-main\project-main\Domain\obj\Debug\net5.0\Domain.csproj.AssemblyReference.cache
+D:\.NET\project-main\project-main\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\project-main\project-main\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+D:\.NET\project-main\project-main\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+D:\.NET\project-main\project-main\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+D:\.NET\project-main\project-main\Domain\obj\Debug\net5.0\Domain.dll
+D:\.NET\project-main\project-main\Domain\obj\Debug\net5.0\ref\Domain.dll
+D:\.NET\project-main\project-main\Domain\obj\Debug\net5.0\Domain.pdb
+D:\.NET\project-main\project-main\Domain\obj\Debug\net5.0\Domain.genruntimeconfig.cache
+C:\Users\40757\Desktop\ANUL 3\.NET\project\Domain\bin\Debug\net5.0\Domain.deps.json
+C:\Users\40757\Desktop\ANUL 3\.NET\project\Domain\bin\Debug\net5.0\Domain.runtimeconfig.json
+C:\Users\40757\Desktop\ANUL 3\.NET\project\Domain\bin\Debug\net5.0\Domain.runtimeconfig.dev.json
+C:\Users\40757\Desktop\ANUL 3\.NET\project\Domain\bin\Debug\net5.0\Domain.dll
+C:\Users\40757\Desktop\ANUL 3\.NET\project\Domain\bin\Debug\net5.0\ref\Domain.dll
+C:\Users\40757\Desktop\ANUL 3\.NET\project\Domain\bin\Debug\net5.0\Domain.pdb
+C:\Users\40757\Desktop\ANUL 3\.NET\project\Domain\obj\Debug\net5.0\Domain.csproj.AssemblyReference.cache
+C:\Users\40757\Desktop\ANUL 3\.NET\project\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\40757\Desktop\ANUL 3\.NET\project\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+C:\Users\40757\Desktop\ANUL 3\.NET\project\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+C:\Users\40757\Desktop\ANUL 3\.NET\project\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\40757\Desktop\ANUL 3\.NET\project\Domain\obj\Debug\net5.0\Domain.dll
+C:\Users\40757\Desktop\ANUL 3\.NET\project\Domain\obj\Debug\net5.0\ref\Domain.dll
+C:\Users\40757\Desktop\ANUL 3\.NET\project\Domain\obj\Debug\net5.0\Domain.pdb
+C:\Users\40757\Desktop\ANUL 3\.NET\project\Domain\obj\Debug\net5.0\Domain.genruntimeconfig.cache
+d:\Facultate\.NET\Proiect_Git\project\Domain\bin\Debug\net5.0\Domain.deps.json
+d:\Facultate\.NET\Proiect_Git\project\Domain\bin\Debug\net5.0\Domain.runtimeconfig.json
+d:\Facultate\.NET\Proiect_Git\project\Domain\bin\Debug\net5.0\Domain.runtimeconfig.dev.json
+d:\Facultate\.NET\Proiect_Git\project\Domain\bin\Debug\net5.0\Domain.dll
+d:\Facultate\.NET\Proiect_Git\project\Domain\bin\Debug\net5.0\ref\Domain.dll
+d:\Facultate\.NET\Proiect_Git\project\Domain\bin\Debug\net5.0\Domain.pdb
+d:\Facultate\.NET\Proiect_Git\project\Domain\obj\Debug\net5.0\Domain.csproj.AssemblyReference.cache
+d:\Facultate\.NET\Proiect_Git\project\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+d:\Facultate\.NET\Proiect_Git\project\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+d:\Facultate\.NET\Proiect_Git\project\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+d:\Facultate\.NET\Proiect_Git\project\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+d:\Facultate\.NET\Proiect_Git\project\Domain\obj\Debug\net5.0\Domain.dll
+d:\Facultate\.NET\Proiect_Git\project\Domain\obj\Debug\net5.0\ref\Domain.dll
+d:\Facultate\.NET\Proiect_Git\project\Domain\obj\Debug\net5.0\Domain.pdb
+d:\Facultate\.NET\Proiect_Git\project\Domain\obj\Debug\net5.0\Domain.genruntimeconfig.cache
+D:\faculty\dot-net\nou proj\project\Domain\bin\Debug\net5.0\Domain.deps.json
+D:\faculty\dot-net\nou proj\project\Domain\bin\Debug\net5.0\Domain.runtimeconfig.json
+D:\faculty\dot-net\nou proj\project\Domain\bin\Debug\net5.0\Domain.runtimeconfig.dev.json
+D:\faculty\dot-net\nou proj\project\Domain\bin\Debug\net5.0\Domain.dll
+D:\faculty\dot-net\nou proj\project\Domain\bin\Debug\net5.0\ref\Domain.dll
+D:\faculty\dot-net\nou proj\project\Domain\bin\Debug\net5.0\Domain.pdb
+D:\faculty\dot-net\nou proj\project\Domain\obj\Debug\net5.0\Domain.csproj.AssemblyReference.cache
+D:\faculty\dot-net\nou proj\project\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\faculty\dot-net\nou proj\project\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+D:\faculty\dot-net\nou proj\project\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+D:\faculty\dot-net\nou proj\project\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+D:\faculty\dot-net\nou proj\project\Domain\obj\Debug\net5.0\Domain.dll
+D:\faculty\dot-net\nou proj\project\Domain\obj\Debug\net5.0\ref\Domain.dll
+D:\faculty\dot-net\nou proj\project\Domain\obj\Debug\net5.0\Domain.pdb
+D:\faculty\dot-net\nou proj\project\Domain\obj\Debug\net5.0\Domain.genruntimeconfig.cache
+D:\.NET\fake_news_detection\project-main\Domain\bin\Debug\net5.0\Domain.deps.json
+D:\.NET\fake_news_detection\project-main\Domain\bin\Debug\net5.0\Domain.runtimeconfig.json
+D:\.NET\fake_news_detection\project-main\Domain\bin\Debug\net5.0\Domain.runtimeconfig.dev.json
+D:\.NET\fake_news_detection\project-main\Domain\bin\Debug\net5.0\Domain.dll
+D:\.NET\fake_news_detection\project-main\Domain\bin\Debug\net5.0\ref\Domain.dll
+D:\.NET\fake_news_detection\project-main\Domain\bin\Debug\net5.0\Domain.pdb
+D:\.NET\fake_news_detection\project-main\Domain\obj\Debug\net5.0\Domain.csproj.AssemblyReference.cache
+D:\.NET\fake_news_detection\project-main\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\fake_news_detection\project-main\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+D:\.NET\fake_news_detection\project-main\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+D:\.NET\fake_news_detection\project-main\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+D:\.NET\fake_news_detection\project-main\Domain\obj\Debug\net5.0\Domain.dll
+D:\.NET\fake_news_detection\project-main\Domain\obj\Debug\net5.0\ref\Domain.dll
+D:\.NET\fake_news_detection\project-main\Domain\obj\Debug\net5.0\Domain.pdb
+D:\.NET\fake_news_detection\project-main\Domain\obj\Debug\net5.0\Domain.genruntimeconfig.cache

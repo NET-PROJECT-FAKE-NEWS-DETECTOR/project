@@ -1,0 +1,126 @@
+D:\.NET\Fake_News_Detection\Application\bin\x64\Debug\net5.0\Application.deps.json
+D:\.NET\Fake_News_Detection\Application\bin\x64\Debug\net5.0\Application.runtimeconfig.json
+D:\.NET\Fake_News_Detection\Application\bin\x64\Debug\net5.0\Application.runtimeconfig.dev.json
+D:\.NET\Fake_News_Detection\Application\bin\x64\Debug\net5.0\Application.dll
+D:\.NET\Fake_News_Detection\Application\bin\x64\Debug\net5.0\ref\Application.dll
+D:\.NET\Fake_News_Detection\Application\bin\x64\Debug\net5.0\Application.pdb
+D:\.NET\Fake_News_Detection\Application\bin\x64\Debug\net5.0\Domain.dll
+D:\.NET\Fake_News_Detection\Application\bin\x64\Debug\net5.0\Domain.pdb
+D:\.NET\Fake_News_Detection\Application\obj\x64\Debug\net5.0\Application.csproj.AssemblyReference.cache
+D:\.NET\Fake_News_Detection\Application\obj\x64\Debug\net5.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\Fake_News_Detection\Application\obj\x64\Debug\net5.0\Application.AssemblyInfoInputs.cache
+D:\.NET\Fake_News_Detection\Application\obj\x64\Debug\net5.0\Application.AssemblyInfo.cs
+D:\.NET\Fake_News_Detection\Application\obj\x64\Debug\net5.0\Application.csproj.CoreCompileInputs.cache
+D:\.NET\Fake_News_Detection\Application\obj\x64\Debug\net5.0\Application.csproj.CopyComplete
+D:\.NET\Fake_News_Detection\Application\obj\x64\Debug\net5.0\Application.dll
+D:\.NET\Fake_News_Detection\Application\obj\x64\Debug\net5.0\ref\Application.dll
+D:\.NET\Fake_News_Detection\Application\obj\x64\Debug\net5.0\Application.pdb
+D:\.NET\Fake_News_Detection\Application\obj\x64\Debug\net5.0\Application.genruntimeconfig.cache
+D:\repos\project\Application\bin\x64\Debug\net5.0\Application.deps.json
+D:\repos\project\Application\bin\x64\Debug\net5.0\Application.runtimeconfig.json
+D:\repos\project\Application\bin\x64\Debug\net5.0\Application.runtimeconfig.dev.json
+D:\repos\project\Application\bin\x64\Debug\net5.0\Application.dll
+D:\repos\project\Application\bin\x64\Debug\net5.0\ref\Application.dll
+D:\repos\project\Application\bin\x64\Debug\net5.0\Application.pdb
+D:\repos\project\Application\bin\x64\Debug\net5.0\Domain.dll
+D:\repos\project\Application\bin\x64\Debug\net5.0\Domain.pdb
+D:\repos\project\Application\obj\x64\Debug\net5.0\Application.csproj.AssemblyReference.cache
+D:\repos\project\Application\obj\x64\Debug\net5.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\project\Application\obj\x64\Debug\net5.0\Application.AssemblyInfoInputs.cache
+D:\repos\project\Application\obj\x64\Debug\net5.0\Application.AssemblyInfo.cs
+D:\repos\project\Application\obj\x64\Debug\net5.0\Application.csproj.CoreCompileInputs.cache
+D:\repos\project\Application\obj\x64\Debug\net5.0\Application.csproj.CopyComplete
+D:\repos\project\Application\obj\x64\Debug\net5.0\Application.dll
+D:\repos\project\Application\obj\x64\Debug\net5.0\ref\Application.dll
+D:\repos\project\Application\obj\x64\Debug\net5.0\Application.pdb
+D:\repos\project\Application\obj\x64\Debug\net5.0\Application.genruntimeconfig.cache
+C:\Users\claud\Desktop\project-main\Application\bin\x64\Debug\net5.0\Application.deps.json
+C:\Users\claud\Desktop\project-main\Application\bin\x64\Debug\net5.0\Application.runtimeconfig.json
+C:\Users\claud\Desktop\project-main\Application\bin\x64\Debug\net5.0\Application.runtimeconfig.dev.json
+C:\Users\claud\Desktop\project-main\Application\bin\x64\Debug\net5.0\Application.dll
+C:\Users\claud\Desktop\project-main\Application\bin\x64\Debug\net5.0\ref\Application.dll
+C:\Users\claud\Desktop\project-main\Application\bin\x64\Debug\net5.0\Application.pdb
+C:\Users\claud\Desktop\project-main\Application\bin\x64\Debug\net5.0\Domain.dll
+C:\Users\claud\Desktop\project-main\Application\bin\x64\Debug\net5.0\Domain.pdb
+C:\Users\claud\Desktop\project-main\Application\obj\x64\Debug\net5.0\Application.csproj.AssemblyReference.cache
+C:\Users\claud\Desktop\project-main\Application\obj\x64\Debug\net5.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\claud\Desktop\project-main\Application\obj\x64\Debug\net5.0\Application.AssemblyInfoInputs.cache
+C:\Users\claud\Desktop\project-main\Application\obj\x64\Debug\net5.0\Application.AssemblyInfo.cs
+C:\Users\claud\Desktop\project-main\Application\obj\x64\Debug\net5.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\claud\Desktop\project-main\Application\obj\x64\Debug\net5.0\Application.csproj.CopyComplete
+C:\Users\claud\Desktop\project-main\Application\obj\x64\Debug\net5.0\Application.dll
+C:\Users\claud\Desktop\project-main\Application\obj\x64\Debug\net5.0\ref\Application.dll
+C:\Users\claud\Desktop\project-main\Application\obj\x64\Debug\net5.0\Application.pdb
+C:\Users\claud\Desktop\project-main\Application\obj\x64\Debug\net5.0\Application.genruntimeconfig.cache
+D:\.NET\project-main\project-main\Application\bin\x64\Debug\net5.0\Application.deps.json
+D:\.NET\project-main\project-main\Application\bin\x64\Debug\net5.0\Application.runtimeconfig.json
+D:\.NET\project-main\project-main\Application\bin\x64\Debug\net5.0\Application.runtimeconfig.dev.json
+D:\.NET\project-main\project-main\Application\bin\x64\Debug\net5.0\Application.dll
+D:\.NET\project-main\project-main\Application\bin\x64\Debug\net5.0\ref\Application.dll
+D:\.NET\project-main\project-main\Application\bin\x64\Debug\net5.0\Application.pdb
+D:\.NET\project-main\project-main\Application\bin\x64\Debug\net5.0\Domain.dll
+D:\.NET\project-main\project-main\Application\bin\x64\Debug\net5.0\Domain.pdb
+D:\.NET\project-main\project-main\Application\obj\x64\Debug\net5.0\Application.csproj.AssemblyReference.cache
+D:\.NET\project-main\project-main\Application\obj\x64\Debug\net5.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\project-main\project-main\Application\obj\x64\Debug\net5.0\Application.AssemblyInfoInputs.cache
+D:\.NET\project-main\project-main\Application\obj\x64\Debug\net5.0\Application.AssemblyInfo.cs
+D:\.NET\project-main\project-main\Application\obj\x64\Debug\net5.0\Application.csproj.CoreCompileInputs.cache
+D:\.NET\project-main\project-main\Application\obj\x64\Debug\net5.0\Application.csproj.CopyComplete
+D:\.NET\project-main\project-main\Application\obj\x64\Debug\net5.0\Application.dll
+D:\.NET\project-main\project-main\Application\obj\x64\Debug\net5.0\ref\Application.dll
+D:\.NET\project-main\project-main\Application\obj\x64\Debug\net5.0\Application.pdb
+D:\.NET\project-main\project-main\Application\obj\x64\Debug\net5.0\Application.genruntimeconfig.cache
+C:\Users\40757\Desktop\ANUL 3\.NET\project\Application\bin\x64\Debug\net5.0\Application.deps.json
+C:\Users\40757\Desktop\ANUL 3\.NET\project\Application\bin\x64\Debug\net5.0\Application.runtimeconfig.json
+C:\Users\40757\Desktop\ANUL 3\.NET\project\Application\bin\x64\Debug\net5.0\Application.runtimeconfig.dev.json
+C:\Users\40757\Desktop\ANUL 3\.NET\project\Application\bin\x64\Debug\net5.0\Application.dll
+C:\Users\40757\Desktop\ANUL 3\.NET\project\Application\bin\x64\Debug\net5.0\ref\Application.dll
+C:\Users\40757\Desktop\ANUL 3\.NET\project\Application\bin\x64\Debug\net5.0\Application.pdb
+C:\Users\40757\Desktop\ANUL 3\.NET\project\Application\bin\x64\Debug\net5.0\Domain.dll
+C:\Users\40757\Desktop\ANUL 3\.NET\project\Application\bin\x64\Debug\net5.0\Domain.pdb
+C:\Users\40757\Desktop\ANUL 3\.NET\project\Application\obj\x64\Debug\net5.0\Application.csproj.AssemblyReference.cache
+C:\Users\40757\Desktop\ANUL 3\.NET\project\Application\obj\x64\Debug\net5.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\40757\Desktop\ANUL 3\.NET\project\Application\obj\x64\Debug\net5.0\Application.AssemblyInfoInputs.cache
+C:\Users\40757\Desktop\ANUL 3\.NET\project\Application\obj\x64\Debug\net5.0\Application.AssemblyInfo.cs
+C:\Users\40757\Desktop\ANUL 3\.NET\project\Application\obj\x64\Debug\net5.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\40757\Desktop\ANUL 3\.NET\project\Application\obj\x64\Debug\net5.0\Application.csproj.CopyComplete
+C:\Users\40757\Desktop\ANUL 3\.NET\project\Application\obj\x64\Debug\net5.0\Application.dll
+C:\Users\40757\Desktop\ANUL 3\.NET\project\Application\obj\x64\Debug\net5.0\ref\Application.dll
+C:\Users\40757\Desktop\ANUL 3\.NET\project\Application\obj\x64\Debug\net5.0\Application.pdb
+C:\Users\40757\Desktop\ANUL 3\.NET\project\Application\obj\x64\Debug\net5.0\Application.genruntimeconfig.cache
+D:\faculty\dot-net\nou proj\project\Application\bin\x64\Debug\net5.0\Application.deps.json
+D:\faculty\dot-net\nou proj\project\Application\bin\x64\Debug\net5.0\Application.runtimeconfig.json
+D:\faculty\dot-net\nou proj\project\Application\bin\x64\Debug\net5.0\Application.runtimeconfig.dev.json
+D:\faculty\dot-net\nou proj\project\Application\bin\x64\Debug\net5.0\Application.dll
+D:\faculty\dot-net\nou proj\project\Application\bin\x64\Debug\net5.0\ref\Application.dll
+D:\faculty\dot-net\nou proj\project\Application\bin\x64\Debug\net5.0\Application.pdb
+D:\faculty\dot-net\nou proj\project\Application\bin\x64\Debug\net5.0\Domain.dll
+D:\faculty\dot-net\nou proj\project\Application\bin\x64\Debug\net5.0\Domain.pdb
+D:\faculty\dot-net\nou proj\project\Application\obj\x64\Debug\net5.0\Application.csproj.AssemblyReference.cache
+D:\faculty\dot-net\nou proj\project\Application\obj\x64\Debug\net5.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\faculty\dot-net\nou proj\project\Application\obj\x64\Debug\net5.0\Application.AssemblyInfoInputs.cache
+D:\faculty\dot-net\nou proj\project\Application\obj\x64\Debug\net5.0\Application.AssemblyInfo.cs
+D:\faculty\dot-net\nou proj\project\Application\obj\x64\Debug\net5.0\Application.csproj.CoreCompileInputs.cache
+D:\faculty\dot-net\nou proj\project\Application\obj\x64\Debug\net5.0\Application.csproj.CopyComplete
+D:\faculty\dot-net\nou proj\project\Application\obj\x64\Debug\net5.0\Application.dll
+D:\faculty\dot-net\nou proj\project\Application\obj\x64\Debug\net5.0\ref\Application.dll
+D:\faculty\dot-net\nou proj\project\Application\obj\x64\Debug\net5.0\Application.pdb
+D:\faculty\dot-net\nou proj\project\Application\obj\x64\Debug\net5.0\Application.genruntimeconfig.cache
+D:\.NET\fake_news_detection\project-main\Application\bin\x64\Debug\net5.0\Application.deps.json
+D:\.NET\fake_news_detection\project-main\Application\bin\x64\Debug\net5.0\Application.runtimeconfig.json
+D:\.NET\fake_news_detection\project-main\Application\bin\x64\Debug\net5.0\Application.runtimeconfig.dev.json
+D:\.NET\fake_news_detection\project-main\Application\bin\x64\Debug\net5.0\Application.dll
+D:\.NET\fake_news_detection\project-main\Application\bin\x64\Debug\net5.0\ref\Application.dll
+D:\.NET\fake_news_detection\project-main\Application\bin\x64\Debug\net5.0\Application.pdb
+D:\.NET\fake_news_detection\project-main\Application\bin\x64\Debug\net5.0\Domain.dll
+D:\.NET\fake_news_detection\project-main\Application\bin\x64\Debug\net5.0\Domain.pdb
+D:\.NET\fake_news_detection\project-main\Application\obj\x64\Debug\net5.0\Application.csproj.AssemblyReference.cache
+D:\.NET\fake_news_detection\project-main\Application\obj\x64\Debug\net5.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\fake_news_detection\project-main\Application\obj\x64\Debug\net5.0\Application.AssemblyInfoInputs.cache
+D:\.NET\fake_news_detection\project-main\Application\obj\x64\Debug\net5.0\Application.AssemblyInfo.cs
+D:\.NET\fake_news_detection\project-main\Application\obj\x64\Debug\net5.0\Application.csproj.CoreCompileInputs.cache
+D:\.NET\fake_news_detection\project-main\Application\obj\x64\Debug\net5.0\Application.csproj.CopyComplete
+D:\.NET\fake_news_detection\project-main\Application\obj\x64\Debug\net5.0\Application.dll
+D:\.NET\fake_news_detection\project-main\Application\obj\x64\Debug\net5.0\ref\Application.dll
+D:\.NET\fake_news_detection\project-main\Application\obj\x64\Debug\net5.0\Application.pdb
+D:\.NET\fake_news_detection\project-main\Application\obj\x64\Debug\net5.0\Application.genruntimeconfig.cache
