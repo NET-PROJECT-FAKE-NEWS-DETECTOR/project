@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = WebAPI
-build_property.ProjectDir = D:\.NET\fake_news_detection\project-main\WebAPI\
+build_property.ProjectDir = D:\faculty\dot-net\new_proj\project\WebAPI\

@@ -7507,19 +7507,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\claud\\.nuget\\packages\\": {}
+    "C:\\Users\\gabii\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\.NET\\fake_news_detection\\project-main\\Application\\Application.csproj",
+      "projectUniqueName": "D:\\faculty\\dot-net\\new_proj\\project\\Application\\Application.csproj",
       "projectName": "Application",
-      "projectPath": "D:\\.NET\\fake_news_detection\\project-main\\Application\\Application.csproj",
-      "packagesPath": "C:\\Users\\claud\\.nuget\\packages\\",
-      "outputPath": "D:\\.NET\\fake_news_detection\\project-main\\Application\\obj\\",
+      "projectPath": "D:\\faculty\\dot-net\\new_proj\\project\\Application\\Application.csproj",
+      "packagesPath": "C:\\Users\\gabii\\.nuget\\packages\\",
+      "outputPath": "D:\\faculty\\dot-net\\new_proj\\project\\Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\claud\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\gabii\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -7533,8 +7533,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\.NET\\fake_news_detection\\project-main\\Domain\\Domain.csproj": {
-              "projectPath": "D:\\.NET\\fake_news_detection\\project-main\\Domain\\Domain.csproj"
+            "D:\\faculty\\dot-net\\new_proj\\project\\Domain\\Domain.csproj": {
+              "projectPath": "D:\\faculty\\dot-net\\new_proj\\project\\Domain\\Domain.csproj"
             }
           }
         }

@@ -1,5 +1,8 @@
 using System;
 using System.Collections.Generic;
+using System.Configuration;
+using System.Data.Common;
+using System.Data.SqlClient;
 using System.Linq;
 using System.Net.Http;
 using System.Security.Claims;
@@ -8,6 +11,7 @@ using Domain.Entities;
 using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
+using MySql.Data.MySqlClient;
 
 namespace WebAPI.Pages.Admin
 {
@@ -15,6 +19,7 @@ namespace WebAPI.Pages.Admin
     {
         [BindProperty]
         public AdminAuth Credential { get; set; }
+        public bool incorect_credentials = false;
        
         public void OnGet()
         {
@@ -28,14 +33,23 @@ namespace WebAPI.Pages.Admin
                 return Page();
             }
 
-            // verify the credentials
 
-            if (Credential.Username == "admin1" && Credential.Password == "admin1")
+            var connectionString = "server=localhost;database=dotnetproject;user=root;password=acasa213";
+
+            MySqlConnection connection = new MySqlConnection(connectionString);
+
+            connection.Open();
+
+            string qry = "select * from adminauth where Username='" + Credential.Username + "' and Password='" + Credential.Password + "'";
+
+            MySqlCommand cmd = new MySqlCommand(qry, connection);
+
+            MySqlDataReader sdr = cmd.ExecuteReader();
+            if (sdr.Read())
             {
                 // creating the security context
                 var claims = new List<Claim> {
-                    new Claim(ClaimTypes.Name, "admin1"),
-                    new Claim(ClaimTypes.Email, "admin1@mywebsite.com")
+                    new Claim(ClaimTypes.Name, Credential.Username),
                 };
 
                 var identity = new ClaimsIdentity(claims, "MyCookieAuth");
@@ -51,6 +65,8 @@ namespace WebAPI.Pages.Admin
                 return RedirectToPage("/Account/Admin");
 
             }
+
+            incorect_credentials = true;
 
             return Page();
         }

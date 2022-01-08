@@ -2,6 +2,15 @@
   "version": 3,
   "targets": {
     "net5.0": {
+      "BCrypt.Net-Next/4.0.2": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/BCrypt.Net-Next.dll": {}
+        },
+        "runtime": {
+          "lib/net5.0/BCrypt.Net-Next.dll": {}
+        }
+      },
       "BouncyCastle.NetCore/1.8.5": {
         "type": "package",
         "compile": {
@@ -2716,6 +2725,39 @@
     }
   },
   "libraries": {
+    "BCrypt.Net-Next/4.0.2": {
+      "sha512": "LyNKpIpr4GraRD9+xlTviyxxbZpF6J4xJf7DvraC1mR8PSN/KonGc4rt8C/fjkD3vaEvgA7BcvsbHFCOjgczyQ==",
+      "type": "package",
+      "path": "bcrypt.net-next/4.0.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "bcrypt.net-next.4.0.2.nupkg.sha512",
+        "bcrypt.net-next.nuspec",
+        "lib/net20/BCrypt.Net-Next.dll",
+        "lib/net20/BCrypt.Net-Next.xml",
+        "lib/net35/BCrypt.Net-Next.dll",
+        "lib/net35/BCrypt.Net-Next.xml",
+        "lib/net40/BCrypt.Net-Next.dll",
+        "lib/net40/BCrypt.Net-Next.xml",
+        "lib/net452/BCrypt.Net-Next.dll",
+        "lib/net452/BCrypt.Net-Next.xml",
+        "lib/net462/BCrypt.Net-Next.dll",
+        "lib/net462/BCrypt.Net-Next.xml",
+        "lib/net472/BCrypt.Net-Next.dll",
+        "lib/net472/BCrypt.Net-Next.xml",
+        "lib/net48/BCrypt.Net-Next.dll",
+        "lib/net48/BCrypt.Net-Next.xml",
+        "lib/net5.0/BCrypt.Net-Next.dll",
+        "lib/net5.0/BCrypt.Net-Next.xml",
+        "lib/netcoreapp3.1/BCrypt.Net-Next.dll",
+        "lib/netcoreapp3.1/BCrypt.Net-Next.xml",
+        "lib/netstandard2.0/BCrypt.Net-Next.dll",
+        "lib/netstandard2.0/BCrypt.Net-Next.xml",
+        "lib/netstandard2.1/BCrypt.Net-Next.dll",
+        "lib/netstandard2.1/BCrypt.Net-Next.xml"
+      ]
+    },
     "BouncyCastle.NetCore/1.8.5": {
       "sha512": "6uxsQw2UXrt82VQAWC2td3oBSJjUZ3P4u4DliagB8wf67KsU53V8sW9xwdF+IwZOOZFR0TCZuv/YKZ2BlrfAag==",
       "type": "package",
@@ -8802,6 +8844,7 @@
   "projectFileDependencyGroups": {
     "net5.0": [
       "Application >= 1.0.0",
+      "BCrypt.Net-Next >= 4.0.2",
       "FakeItEasy >= 7.2.0",
       "FluentAssertions >= 5.0.0",
       "HtmlAgilityPack >= 1.11.39",
@@ -8820,19 +8863,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\claud\\.nuget\\packages\\": {}
+    "C:\\Users\\gabii\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\.NET\\fake_news_detection\\project-main\\WebAPI\\WebAPI.csproj",
+      "projectUniqueName": "D:\\faculty\\dot-net\\new_proj\\project\\WebAPI\\WebAPI.csproj",
       "projectName": "WebAPI",
-      "projectPath": "D:\\.NET\\fake_news_detection\\project-main\\WebAPI\\WebAPI.csproj",
-      "packagesPath": "C:\\Users\\claud\\.nuget\\packages\\",
-      "outputPath": "D:\\.NET\\fake_news_detection\\project-main\\WebAPI\\obj\\",
+      "projectPath": "D:\\faculty\\dot-net\\new_proj\\project\\WebAPI\\WebAPI.csproj",
+      "packagesPath": "C:\\Users\\gabii\\.nuget\\packages\\",
+      "outputPath": "D:\\faculty\\dot-net\\new_proj\\project\\WebAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\claud\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\gabii\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -8846,11 +8889,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\.NET\\fake_news_detection\\project-main\\Application\\Application.csproj": {
-              "projectPath": "D:\\.NET\\fake_news_detection\\project-main\\Application\\Application.csproj"
+            "D:\\faculty\\dot-net\\new_proj\\project\\Application\\Application.csproj": {
+              "projectPath": "D:\\faculty\\dot-net\\new_proj\\project\\Application\\Application.csproj"
             },
-            "D:\\.NET\\fake_news_detection\\project-main\\Persistence\\Persistence.csproj": {
-              "projectPath": "D:\\.NET\\fake_news_detection\\project-main\\Persistence\\Persistence.csproj"
+            "D:\\faculty\\dot-net\\new_proj\\project\\Persistence\\Persistence.csproj": {
+              "projectPath": "D:\\faculty\\dot-net\\new_proj\\project\\Persistence\\Persistence.csproj"
             }
           }
         }
@@ -8865,6 +8908,10 @@
       "net5.0": {
         "targetAlias": "net5.0",
         "dependencies": {
+          "BCrypt.Net-Next": {
+            "target": "Package",
+            "version": "[4.0.2, )"
+          },
           "FakeItEasy": {
             "target": "Package",
             "version": "[7.2.0, )"

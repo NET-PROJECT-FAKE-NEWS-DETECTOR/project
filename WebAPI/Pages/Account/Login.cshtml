@@ -47,6 +47,11 @@
         </div>
     </form>
 
+    @{ 
+        if (@Model.incorect_credentials == true)
+    }
+            <div>Faild to login! Try a different username or a different password!</div>
+
     <script src="~/js/site.js" asp-append-version="true"></script>
     <script type="text/javascript">
         //getItems();

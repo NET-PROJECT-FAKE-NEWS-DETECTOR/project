@@ -23,7 +23,7 @@ namespace Application.Features.DecisionAlgorithm
                 new DatabaseLoader.Column() {Name = "Validation", Type = DbType.Boolean }
          };
 
-            var connectionString = "server=localhost;database=dotnetproject;user=root;password=juventus10";
+            var connectionString = "server=localhost;database=dotnetproject;user=root;password=acasa213";
 
             using var connection = new MySqlConnection(connectionString);
 

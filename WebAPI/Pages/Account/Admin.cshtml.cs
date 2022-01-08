@@ -2,22 +2,22 @@
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
+using System.Threading.Tasks;
 
 namespace WebAPI.Pages
 {
-   [Authorize]
     public class AdminModel : PageModel
     {
 
-        //[BindProperty(SupportsGet = true)]
-        //public string UserName { get; set; }
-
-        ////TODO: check if is neccessary 'SupportGet' for password
-        //[BindProperty(SupportsGet = true)]
-        //public string Password { get; set; }
-
-        public void OnGet()
+        public async Task<IActionResult> OnGet()
         {
+
+            if (User.Identity.IsAuthenticated)
+            {
+                return Page();
+
+            }
+            return RedirectToPage("/Account/Login");
         }
     }
 }
